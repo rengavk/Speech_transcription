@@ -1,0 +1,15 @@
+{
+    "audio_file": "C02_1009.wav",
+    "speakers": {
+        "SPEAKER_00": {
+            "turns": 67,
+            "speaking_time": 154.89,
+            "conversation_share": 42.38
+        },
+        "SPEAKER_01": {
+            "turns": 99,
+            "speaking_time": 210.6,
+            "conversation_share": 57.62
+        }
+    }
+}

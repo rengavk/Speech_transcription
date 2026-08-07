@@ -1,0 +1,26 @@
+{
+    "audio_file": "C14_1107.json",
+    "target_speaker": "SPEAKER_00",
+    "selection_method": "automatic",
+    "confidence": 0.051,
+    "speaker_statistics": {
+        "SPEAKER_00": {
+            "turns": 49,
+            "speaking_time": 97.52,
+            "word_count": 318,
+            "avg_turn_duration": 1.99,
+            "longest_turn": 4.69
+        },
+        "SPEAKER_01": {
+            "turns": 45,
+            "speaking_time": 97.39,
+            "word_count": 251,
+            "avg_turn_duration": 2.16,
+            "longest_turn": 6.88
+        }
+    },
+    "speaker_scores": {
+        "SPEAKER_00": 0.992,
+        "SPEAKER_01": 0.9409
+    }
+}

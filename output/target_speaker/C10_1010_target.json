@@ -1,0 +1,394 @@
+{
+    "audio_file": "C10_1010.json",
+    "target_speaker": "SPEAKER_00",
+    "segments": [
+        {
+            "segment_id": 1,
+            "speaker": "TARGET",
+            "start": 0.031,
+            "end": 1.837,
+            "duration": 1.806,
+            "overlap": false,
+            "text": "Your friend is Bisagio Tidas."
+        },
+        {
+            "segment_id": 2,
+            "speaker": "TARGET",
+            "start": 2.309,
+            "end": 3.946,
+            "duration": 1.637,
+            "overlap": true,
+            "text": "Because there is always a place for me."
+        },
+        {
+            "segment_id": 3,
+            "speaker": "TARGET",
+            "start": 6.005,
+            "end": 11.438,
+            "duration": 5.434,
+            "overlap": true,
+            "text": "My class is actually section C and 6th class but he is section A."
+        },
+        {
+            "segment_id": 4,
+            "speaker": "TARGET",
+            "start": 12.063,
+            "end": 12.704,
+            "duration": 0.641,
+            "overlap": false,
+            "text": "Thank you."
+        },
+        {
+            "segment_id": 5,
+            "speaker": "TARGET",
+            "start": 13.801,
+            "end": 15.117,
+            "duration": 1.316,
+            "overlap": true,
+            "text": "Okay, so what do you like to watch"
+        },
+        {
+            "segment_id": 6,
+            "speaker": "TARGET",
+            "start": 15.218,
+            "end": 15.742,
+            "duration": 0.523,
+            "overlap": false,
+            "text": "to watch a few."
+        },
+        {
+            "segment_id": 7,
+            "speaker": "TARGET",
+            "start": 17.902,
+            "end": 29.714,
+            "duration": 11.812,
+            "overlap": false,
+            "text": "Ma'am, I like to watch on TV like animal planets or something like about animals and I watch discovery channels and sometimes I watch some cartoons or movies."
+        },
+        {
+            "segment_id": 8,
+            "speaker": "TARGET",
+            "start": 30.355,
+            "end": 34.507,
+            "duration": 4.152,
+            "overlap": false,
+            "text": "Okay, that's very nice. Okay, so do you like telling stories?"
+        },
+        {
+            "segment_id": 9,
+            "speaker": "TARGET",
+            "start": 37.392,
+            "end": 38.911,
+            "duration": 1.519,
+            "overlap": false,
+            "text": "Do you like telling stories?"
+        },
+        {
+            "segment_id": 10,
+            "speaker": "TARGET",
+            "start": 40.092,
+            "end": 44.277,
+            "duration": 4.185,
+            "overlap": false,
+            "text": "Yes ma'am, I like it very much and I love to read books, story books."
+        },
+        {
+            "segment_id": 11,
+            "speaker": "TARGET",
+            "start": 115.793,
+            "end": 116.198,
+            "duration": 0.405,
+            "overlap": true,
+            "text": "[unintelligible]"
+        },
+        {
+            "segment_id": 12,
+            "speaker": "TARGET",
+            "start": 162.706,
+            "end": 163.364,
+            "duration": 0.658,
+            "overlap": true,
+            "text": "When you're ready."
+        },
+        {
+            "segment_id": 13,
+            "speaker": "TARGET",
+            "start": 196.962,
+            "end": 197.283,
+            "duration": 0.321,
+            "overlap": false,
+            "text": "Thank you."
+        },
+        {
+            "segment_id": 14,
+            "speaker": "TARGET",
+            "start": 197.333,
+            "end": 200.742,
+            "duration": 3.409,
+            "overlap": false,
+            "text": "There was a goat which he had two sons."
+        },
+        {
+            "segment_id": 15,
+            "speaker": "TARGET",
+            "start": 201.333,
+            "end": 207.172,
+            "duration": 5.839,
+            "overlap": false,
+            "text": "One son is named as Ram. Another one is named as Ben."
+        },
+        {
+            "segment_id": 16,
+            "speaker": "TARGET",
+            "start": 207.796,
+            "end": 230.24,
+            "duration": 22.444,
+            "overlap": true,
+            "text": "So, when Ram and Ben were gone to the lake, then Ben, the little goat, he just fell into the lake or the pond. Then he was screaming, meh, meh, help me someone. Then the father goat, his father, Billy ran towards him and saved him."
+        },
+        {
+            "segment_id": 17,
+            "speaker": "TARGET",
+            "start": 230.746,
+            "end": 236.18,
+            "duration": 5.434,
+            "overlap": false,
+            "text": "Then with his sharp horns, he took him out from the well."
+        },
+        {
+            "segment_id": 18,
+            "speaker": "TARGET",
+            "start": 237.04,
+            "end": 237.496,
+            "duration": 0.456,
+            "overlap": false,
+            "text": "Then"
+        },
+        {
+            "segment_id": 19,
+            "speaker": "TARGET",
+            "start": 238.88,
+            "end": 239.437,
+            "duration": 0.557,
+            "overlap": false,
+            "text": "[unintelligible]"
+        },
+        {
+            "segment_id": 20,
+            "speaker": "TARGET",
+            "start": 240.263,
+            "end": 241.343,
+            "duration": 1.08,
+            "overlap": false,
+            "text": "[unintelligible]"
+        },
+        {
+            "segment_id": 21,
+            "speaker": "TARGET",
+            "start": 241.9,
+            "end": 266.943,
+            "duration": 25.042,
+            "overlap": true,
+            "text": "Then he was happy as still. But then his second son, Ram, who saw a fox was there. He was hiding there and he was very much hungry that he was saying, wow, there are two wolves. Wow, today I am going to have a very much great meal. So then the fox, when he saw the fox,"
+        },
+        {
+            "segment_id": 22,
+            "speaker": "TARGET",
+            "start": 267.466,
+            "end": 288.307,
+            "duration": 20.841,
+            "overlap": true,
+            "text": "Ram saw him. He quickly ran towards him and wanted to catch him. Then there was a friendly crow who was sitting there. The father and his brother Ben were not that much alert about Ram. So then they were just drinking water. Then after the crow saw him,"
+        },
+        {
+            "segment_id": 23,
+            "speaker": "TARGET",
+            "start": 291.091,
+            "end": 310.008,
+            "duration": 18.917,
+            "overlap": false,
+            "text": "After the crow saw him, they were, then the crow, caw, caw, then he bit the fox tails. Then the father goat and his band saw that, oh no, there was a fox in my, the fox was attacking my,"
+        },
+        {
+            "segment_id": 24,
+            "speaker": "TARGET",
+            "start": 310.936,
+            "end": 314.058,
+            "duration": 3.122,
+            "overlap": false,
+            "text": "Sun, ra, uh, sa, ram."
+        },
+        {
+            "segment_id": 25,
+            "speaker": "TARGET",
+            "start": 314.682,
+            "end": 320.892,
+            "duration": 6.21,
+            "overlap": false,
+            "text": "Then the after crow bite him, the fox was totally completely injured. Then,"
+        },
+        {
+            "segment_id": 26,
+            "speaker": "TARGET",
+            "start": 321.719,
+            "end": 327.22,
+            "duration": 5.501,
+            "overlap": false,
+            "text": "the crow started following him and with his beak he was just"
+        },
+        {
+            "segment_id": 27,
+            "speaker": "TARGET",
+            "start": 327.625,
+            "end": 343.066,
+            "duration": 15.441,
+            "overlap": false,
+            "text": "just enjoying then the fox ran away and then the billy goat with his two sons were happy and they thankfully said thank you to my friend Thanks, bro."
+        },
+        {
+            "segment_id": 28,
+            "speaker": "TARGET",
+            "start": 344.433,
+            "end": 345.023,
+            "duration": 0.591,
+            "overlap": true,
+            "text": "Okay, ready?"
+        },
+        {
+            "segment_id": 29,
+            "speaker": "TARGET",
+            "start": 348.247,
+            "end": 348.635,
+            "duration": 0.388,
+            "overlap": true,
+            "text": "Okay, so look."
+        },
+        {
+            "segment_id": 30,
+            "speaker": "TARGET",
+            "start": 381.035,
+            "end": 381.457,
+            "duration": 0.422,
+            "overlap": true,
+            "text": "That's how you make it."
+        },
+        {
+            "segment_id": 31,
+            "speaker": "TARGET",
+            "start": 387.228,
+            "end": 393.944,
+            "duration": 6.716,
+            "overlap": false,
+            "text": "Now the father boat went into the water because his second son Ben was drowning in the water."
+        },
+        {
+            "segment_id": 32,
+            "speaker": "TARGET",
+            "start": 395.108,
+            "end": 395.783,
+            "duration": 0.675,
+            "overlap": false,
+            "text": "Let's go."
+        },
+        {
+            "segment_id": 33,
+            "speaker": "TARGET",
+            "start": 410.262,
+            "end": 418.565,
+            "duration": 8.303,
+            "overlap": false,
+            "text": "Ma'am, the baby goat was feeling very scared and frightened that he could drown and die sometimes. So he was calling for help for his father."
+        },
+        {
+            "segment_id": 34,
+            "speaker": "TARGET",
+            "start": 427.795,
+            "end": 443.995,
+            "duration": 16.2,
+            "overlap": false,
+            "text": "When the fox jumped because he knew that Ram saw him and then he quickly jumped that he could also kill him and the two goats couldn't know and then they could kill and eat his meat very deliciously."
+        },
+        {
+            "segment_id": 35,
+            "speaker": "TARGET",
+            "start": 455.842,
+            "end": 468.177,
+            "duration": 12.335,
+            "overlap": false,
+            "text": "And the fox was feeling very much like, Ow! There is a crow biting in my tail. And he was very much completely injured. The crow bit him and then he was totally scared from the crow."
+        },
+        {
+            "segment_id": 36,
+            "speaker": "TARGET",
+            "start": 469.358,
+            "end": 471.4,
+            "duration": 2.042,
+            "overlap": false,
+            "text": "And he ran away as fast as he can."
+        },
+        {
+            "segment_id": 37,
+            "speaker": "TARGET",
+            "start": 471.923,
+            "end": 472.767,
+            "duration": 0.844,
+            "overlap": false,
+            "text": "Like a flash."
+        },
+        {
+            "segment_id": 38,
+            "speaker": "TARGET",
+            "start": 481.525,
+            "end": 501.083,
+            "duration": 19.558,
+            "overlap": false,
+            "text": "The crow bites the fox's tail because he knew that the fox could kill him and the fox could kill the little goat who hasn't been also an adult. So for saving his life he bites the fox tail."
+        },
+        {
+            "segment_id": 39,
+            "speaker": "TARGET",
+            "start": 514.246,
+            "end": 530.075,
+            "duration": 15.829,
+            "overlap": false,
+            "text": "Now the crow was feeling very much happy because when we help someone we feel happy. So after saving him he also felt happy and he was also friends with the goats."
+        },
+        {
+            "segment_id": 40,
+            "speaker": "TARGET",
+            "start": 531.02,
+            "end": 531.965,
+            "duration": 0.945,
+            "overlap": false,
+            "text": "Nishoda Friendship"
+        },
+        {
+            "segment_id": 41,
+            "speaker": "TARGET",
+            "start": 544.182,
+            "end": 554.037,
+            "duration": 9.855,
+            "overlap": true,
+            "text": "Ma'am, the crow, because he saved and helped him, some from a fox was attacking him. So the father goat obviously liked the goat."
+        },
+        {
+            "segment_id": 42,
+            "speaker": "TARGET",
+            "start": 565.006,
+            "end": 566.086,
+            "duration": 1.08,
+            "overlap": true,
+            "text": "Have a nice day. Bye-bye."
+        },
+        {
+            "segment_id": 43,
+            "speaker": "TARGET",
+            "start": 573.798,
+            "end": 574.405,
+            "duration": 0.607,
+            "overlap": true,
+            "text": "Bye-bye."
+        }
+    ],
+    "full_transcript": "Your friend is Bisagio Tidas. Because there is always a place for me. My class is actually section C and 6th class but he is section A. Thank you. Okay, so what do you like to watch to watch a few. Ma'am, I like to watch on TV like animal planets or something like about animals and I watch discovery channels and sometimes I watch some cartoons or movies. Okay, that's very nice. Okay, so do you like telling stories? Do you like telling stories? Yes ma'am, I like it very much and I love to read books, story books. [unintelligible] When you're ready. Thank you. There was a goat which he had two sons. One son is named as Ram. Another one is named as Ben. So, when Ram and Ben were gone to the lake, then Ben, the little goat, he just fell into the lake or the pond. Then he was screaming, meh, meh, help me someone. Then the father goat, his father, Billy ran towards him and saved him. Then with his sharp horns, he took him out from the well. Then [unintelligible] [unintelligible] Then he was happy as still. But then his second son, Ram, who saw a fox was there. He was hiding there and he was very much hungry that he was saying, wow, there are two wolves. Wow, today I am going to have a very much great meal. So then the fox, when he saw the fox, Ram saw him. He quickly ran towards him and wanted to catch him. Then there was a friendly crow who was sitting there. The father and his brother Ben were not that much alert about Ram. So then they were just drinking water. Then after the crow saw him, After the crow saw him, they were, then the crow, caw, caw, then he bit the fox tails. Then the father goat and his band saw that, oh no, there was a fox in my, the fox was attacking my, Sun, ra, uh, sa, ram. Then the after crow bite him, the fox was totally completely injured. Then, the crow started following him and with his beak he was just just enjoying then the fox ran away and then the billy goat with his two sons were happy and they thankfully said thank you to my friend Thanks, bro. Okay, ready? Okay, so look. That's how you make it. Now the father boat went into the water because his second son Ben was drowning in the water. Let's go. Ma'am, the baby goat was feeling very scared and frightened that he could drown and die sometimes. So he was calling for help for his father. When the fox jumped because he knew that Ram saw him and then he quickly jumped that he could also kill him and the two goats couldn't know and then they could kill and eat his meat very deliciously. And the fox was feeling very much like, Ow! There is a crow biting in my tail. And he was very much completely injured. The crow bit him and then he was totally scared from the crow. And he ran away as fast as he can. Like a flash. The crow bites the fox's tail because he knew that the fox could kill him and the fox could kill the little goat who hasn't been also an adult. So for saving his life he bites the fox tail. Now the crow was feeling very much happy because when we help someone we feel happy. So after saving him he also felt happy and he was also friends with the goats. Nishoda Friendship Ma'am, the crow, because he saved and helped him, some from a fox was attacking him. So the father goat obviously liked the goat. Have a nice day. Bye-bye. Bye-bye."
+}

@@ -1,0 +1,583 @@
+{
+    "audio_file": "C05_910.json",
+    "target_speaker": "SPEAKER_00",
+    "segments": [
+        {
+            "segment_id": 1,
+            "speaker": "TARGET",
+            "start": 14.358,
+            "end": 14.847,
+            "duration": 0.489,
+            "overlap": false,
+            "text": "Thank you."
+        },
+        {
+            "segment_id": 2,
+            "speaker": "TARGET",
+            "start": 16.028,
+            "end": 18.037,
+            "duration": 2.008,
+            "overlap": false,
+            "text": "How's your day going? How's your Sunday going? What did you do?"
+        },
+        {
+            "segment_id": 3,
+            "speaker": "TARGET",
+            "start": 19.319,
+            "end": 25.225,
+            "duration": 5.906,
+            "overlap": false,
+            "text": "Ma'am, it's very good. Today my cousin sister is there, so we are having fun."
+        },
+        {
+            "segment_id": 4,
+            "speaker": "TARGET",
+            "start": 56.917,
+            "end": 59.296,
+            "duration": 2.379,
+            "overlap": false,
+            "text": "And my best friend is Ananya Sahil."
+        },
+        {
+            "segment_id": 5,
+            "speaker": "TARGET",
+            "start": 60.14,
+            "end": 62.755,
+            "duration": 2.616,
+            "overlap": false,
+            "text": "Okay, and what do you like to watch on TV?"
+        },
+        {
+            "segment_id": 6,
+            "speaker": "TARGET",
+            "start": 64.443,
+            "end": 69.202,
+            "duration": 4.759,
+            "overlap": false,
+            "text": "Mom, I like to watch movies, cartoons and news."
+        },
+        {
+            "segment_id": 7,
+            "speaker": "TARGET",
+            "start": 70.096,
+            "end": 70.973,
+            "duration": 0.878,
+            "overlap": false,
+            "text": "Okay, new songs are"
+        },
+        {
+            "segment_id": 8,
+            "speaker": "TARGET",
+            "start": 135.858,
+            "end": 137.68,
+            "duration": 1.823,
+            "overlap": false,
+            "text": "I'm the first envelope."
+        },
+        {
+            "segment_id": 9,
+            "speaker": "TARGET",
+            "start": 138.473,
+            "end": 138.912,
+            "duration": 0.439,
+            "overlap": false,
+            "text": "This side."
+        },
+        {
+            "segment_id": 10,
+            "speaker": "TARGET",
+            "start": 140.718,
+            "end": 142.068,
+            "duration": 1.35,
+            "overlap": false,
+            "text": "Yes, ma'am. Okay."
+        },
+        {
+            "segment_id": 11,
+            "speaker": "TARGET",
+            "start": 194.296,
+            "end": 194.735,
+            "duration": 0.439,
+            "overlap": false,
+            "text": "Yes, ma'am."
+        },
+        {
+            "segment_id": 12,
+            "speaker": "TARGET",
+            "start": 210.277,
+            "end": 211.255,
+            "duration": 0.979,
+            "overlap": false,
+            "text": "Yes mama, I'm ready."
+        },
+        {
+            "segment_id": 13,
+            "speaker": "TARGET",
+            "start": 212.217,
+            "end": 212.656,
+            "duration": 0.439,
+            "overlap": false,
+            "text": "Okay"
+        },
+        {
+            "segment_id": 14,
+            "speaker": "TARGET",
+            "start": 217.313,
+            "end": 217.786,
+            "duration": 0.472,
+            "overlap": false,
+            "text": "Yes, ma'am."
+        },
+        {
+            "segment_id": 15,
+            "speaker": "TARGET",
+            "start": 218.444,
+            "end": 222.595,
+            "duration": 4.151,
+            "overlap": false,
+            "text": "Once upon a time, there was a bird named"
+        },
+        {
+            "segment_id": 16,
+            "speaker": "TARGET",
+            "start": 223.304,
+            "end": 223.928,
+            "duration": 0.624,
+            "overlap": false,
+            "text": "Pinky."
+        },
+        {
+            "segment_id": 17,
+            "speaker": "TARGET",
+            "start": 224.57,
+            "end": 228.637,
+            "duration": 4.067,
+            "overlap": false,
+            "text": "She had a very good friend named"
+        },
+        {
+            "segment_id": 18,
+            "speaker": "TARGET",
+            "start": 229.345,
+            "end": 231.37,
+            "duration": 2.025,
+            "overlap": false,
+            "text": "Baboon the dog"
+        },
+        {
+            "segment_id": 19,
+            "speaker": "TARGET",
+            "start": 231.775,
+            "end": 237.243,
+            "duration": 5.468,
+            "overlap": false,
+            "text": "One day when Pinky was very hungry and"
+        },
+        {
+            "segment_id": 20,
+            "speaker": "TARGET",
+            "start": 239.437,
+            "end": 250.102,
+            "duration": 10.665,
+            "overlap": false,
+            "text": "And she thought for going and collecting some food, she told her two babies that to sit, that to..."
+        },
+        {
+            "segment_id": 21,
+            "speaker": "TARGET",
+            "start": 250.608,
+            "end": 266.116,
+            "duration": 15.508,
+            "overlap": false,
+            "text": "sit on the nest and not to fly anywhere so when the two baby birds were sitting on the nest one hungry cruel cat came Thank you for watching."
+        },
+        {
+            "segment_id": 22,
+            "speaker": "TARGET",
+            "start": 266.572,
+            "end": 270.149,
+            "duration": 3.577,
+            "overlap": false,
+            "text": "The cat came and saw them sitting on the nest."
+        },
+        {
+            "segment_id": 23,
+            "speaker": "TARGET",
+            "start": 270.672,
+            "end": 284.864,
+            "duration": 14.192,
+            "overlap": false,
+            "text": "when pinkie was flying the cat was hiding behind the tree and was hearing what pinkie was telling he heard that pinkie told Bye."
+        },
+        {
+            "segment_id": 24,
+            "speaker": "TARGET",
+            "start": 285.691,
+            "end": 293.47,
+            "duration": 7.779,
+            "overlap": false,
+            "text": "the two baby birds that not to fly anywhere so he took the chance and"
+        },
+        {
+            "segment_id": 25,
+            "speaker": "TARGET",
+            "start": 293.892,
+            "end": 297.993,
+            "duration": 4.101,
+            "overlap": false,
+            "text": "started climbing up the tree."
+        },
+        {
+            "segment_id": 26,
+            "speaker": "TARGET",
+            "start": 298.533,
+            "end": 308.523,
+            "duration": 9.99,
+            "overlap": false,
+            "text": "so when So when he started to grab a baby bird pinkies"
+        },
+        {
+            "segment_id": 27,
+            "speaker": "TARGET",
+            "start": 309.198,
+            "end": 325.128,
+            "duration": 15.93,
+            "overlap": false,
+            "text": "friend baboon the dog saw that and started barking then pinkie came very fast and tried to save their children then baboon the dog barked Thank you."
+        },
+        {
+            "segment_id": 28,
+            "speaker": "TARGET",
+            "start": 326.107,
+            "end": 328.604,
+            "duration": 2.497,
+            "overlap": false,
+            "text": "and shoot the"
+        },
+        {
+            "segment_id": 29,
+            "speaker": "TARGET",
+            "start": 329.161,
+            "end": 330.376,
+            "duration": 1.215,
+            "overlap": false,
+            "text": "A cat or a bee?"
+        },
+        {
+            "segment_id": 30,
+            "speaker": "TARGET",
+            "start": 333.228,
+            "end": 333.599,
+            "duration": 0.371,
+            "overlap": false,
+            "text": "Okay."
+        },
+        {
+            "segment_id": 31,
+            "speaker": "TARGET",
+            "start": 334.055,
+            "end": 334.375,
+            "duration": 0.321,
+            "overlap": false,
+            "text": "Good, good."
+        },
+        {
+            "segment_id": 32,
+            "speaker": "TARGET",
+            "start": 375.027,
+            "end": 381.237,
+            "duration": 6.21,
+            "overlap": false,
+            "text": "Ma'am, the mother bird flies away to collect some food for the babies."
+        },
+        {
+            "segment_id": 33,
+            "speaker": "TARGET",
+            "start": 382.638,
+            "end": 384.292,
+            "duration": 1.654,
+            "overlap": false,
+            "text": "How do the baby birds feel?"
+        },
+        {
+            "segment_id": 34,
+            "speaker": "TARGET",
+            "start": 386.114,
+            "end": 394.973,
+            "duration": 8.859,
+            "overlap": false,
+            "text": "Ma'am, the baby birds feel very hungry, so the mother bird tries to collect some food."
+        },
+        {
+            "segment_id": 35,
+            "speaker": "TARGET",
+            "start": 395.193,
+            "end": 395.564,
+            "duration": 0.371,
+            "overlap": false,
+            "text": "Okay."
+        },
+        {
+            "segment_id": 36,
+            "speaker": "TARGET",
+            "start": 400.036,
+            "end": 402.145,
+            "duration": 2.109,
+            "overlap": false,
+            "text": "Do you think that the baby birds are feeling hungry?"
+        },
+        {
+            "segment_id": 37,
+            "speaker": "TARGET",
+            "start": 404.187,
+            "end": 412.996,
+            "duration": 8.809,
+            "overlap": false,
+            "text": "Ma'am, I think that the baby birds are feeling hungry because they haven't eaten food for a long time."
+        },
+        {
+            "segment_id": 38,
+            "speaker": "TARGET",
+            "start": 415.662,
+            "end": 417.434,
+            "duration": 1.772,
+            "overlap": false,
+            "text": "And there it is."
+        },
+        {
+            "segment_id": 39,
+            "speaker": "TARGET",
+            "start": 418.345,
+            "end": 419.78,
+            "duration": 1.434,
+            "overlap": true,
+            "text": "[unintelligible]"
+        },
+        {
+            "segment_id": 40,
+            "speaker": "TARGET",
+            "start": 420.202,
+            "end": 420.539,
+            "duration": 0.337,
+            "overlap": false,
+            "text": "Peace."
+        },
+        {
+            "segment_id": 41,
+            "speaker": "TARGET",
+            "start": 422.598,
+            "end": 431.238,
+            "duration": 8.64,
+            "overlap": false,
+            "text": "Their mother has not got any food when they were hungry and after a few days they have..."
+        },
+        {
+            "segment_id": 42,
+            "speaker": "TARGET",
+            "start": 431.727,
+            "end": 434.377,
+            "duration": 2.649,
+            "overlap": false,
+            "text": "I felt more hungry in the morning."
+        },
+        {
+            "segment_id": 43,
+            "speaker": "TARGET",
+            "start": 434.866,
+            "end": 436.165,
+            "duration": 1.299,
+            "overlap": false,
+            "text": "It's going to fucking do."
+        },
+        {
+            "segment_id": 44,
+            "speaker": "TARGET",
+            "start": 438.393,
+            "end": 440.198,
+            "duration": 1.806,
+            "overlap": false,
+            "text": "Why does the cat climb the tree?"
+        },
+        {
+            "segment_id": 45,
+            "speaker": "TARGET",
+            "start": 442.207,
+            "end": 457.343,
+            "duration": 15.137,
+            "overlap": false,
+            "text": "Ma'am, the cat starts to climb the tree because the cat was also feeling hungry and he saw that the birds are there so he thought that to make the birds their food."
+        },
+        {
+            "segment_id": 46,
+            "speaker": "TARGET",
+            "start": 459.605,
+            "end": 461.174,
+            "duration": 1.569,
+            "overlap": false,
+            "text": "How does the cat feel?"
+        },
+        {
+            "segment_id": 47,
+            "speaker": "TARGET",
+            "start": 462.558,
+            "end": 463.857,
+            "duration": 1.299,
+            "overlap": false,
+            "text": "in this picture"
+        },
+        {
+            "segment_id": 48,
+            "speaker": "TARGET",
+            "start": 465.359,
+            "end": 470.067,
+            "duration": 4.708,
+            "overlap": false,
+            "text": "The cat feels the... looks like..."
+        },
+        {
+            "segment_id": 49,
+            "speaker": "TARGET",
+            "start": 470.523,
+            "end": 475.838,
+            "duration": 5.316,
+            "overlap": false,
+            "text": "He was passing through and he saw the baby birds and he started licking his mouth."
+        },
+        {
+            "segment_id": 50,
+            "speaker": "TARGET",
+            "start": 477.83,
+            "end": 478.302,
+            "duration": 0.472,
+            "overlap": false,
+            "text": "In this..."
+        },
+        {
+            "segment_id": 51,
+            "speaker": "TARGET",
+            "start": 478.876,
+            "end": 479.281,
+            "duration": 0.405,
+            "overlap": false,
+            "text": "Oh"
+        },
+        {
+            "segment_id": 52,
+            "speaker": "TARGET",
+            "start": 484.09,
+            "end": 484.563,
+            "duration": 0.472,
+            "overlap": true,
+            "text": "are being highlighted."
+        },
+        {
+            "segment_id": 53,
+            "speaker": "TARGET",
+            "start": 486.301,
+            "end": 490.604,
+            "duration": 4.303,
+            "overlap": false,
+            "text": "Yes, ma'am. Ma'am, in the, um, uh, uh, just a second."
+        },
+        {
+            "segment_id": 54,
+            "speaker": "TARGET",
+            "start": 494.114,
+            "end": 509.572,
+            "duration": 15.458,
+            "overlap": false,
+            "text": "In the fifth picture, the cat is climbing the tree and the baboon dog is biting his tail."
+        },
+        {
+            "segment_id": 55,
+            "speaker": "TARGET",
+            "start": 509.993,
+            "end": 518.667,
+            "duration": 8.674,
+            "overlap": false,
+            "text": "He is slipping down and at the last picture, Baboon the dog shoots the cat."
+        },
+        {
+            "segment_id": 56,
+            "speaker": "TARGET",
+            "start": 529.383,
+            "end": 535.559,
+            "duration": 6.176,
+            "overlap": false,
+            "text": "Ma'am, the dog grabbed the cat's tail to save the two baby birds."
+        },
+        {
+            "segment_id": 57,
+            "speaker": "TARGET",
+            "start": 556.197,
+            "end": 556.636,
+            "duration": 0.439,
+            "overlap": false,
+            "text": "Thank you."
+        },
+        {
+            "segment_id": 58,
+            "speaker": "TARGET",
+            "start": 558.712,
+            "end": 561.918,
+            "duration": 3.206,
+            "overlap": false,
+            "text": "Mom, maybe when he was, uh..."
+        },
+        {
+            "segment_id": 59,
+            "speaker": "TARGET",
+            "start": 562.323,
+            "end": 574.928,
+            "duration": 12.605,
+            "overlap": false,
+            "text": "When he was coming on, yes ma'am, when the cat started to climb the tree, the baby birds would start to cry."
+        },
+        {
+            "segment_id": 60,
+            "speaker": "TARGET",
+            "start": 575.502,
+            "end": 595.853,
+            "duration": 20.351,
+            "overlap": true,
+            "text": "maybe the baby birds start to cry and when the dogs see the cat and their mother came and sat on the nest so when she hugged her babies so maybe they became quiet"
+        },
+        {
+            "segment_id": 61,
+            "speaker": "TARGET",
+            "start": 596.174,
+            "end": 596.647,
+            "duration": 0.472,
+            "overlap": false,
+            "text": "Thank you."
+        },
+        {
+            "segment_id": 62,
+            "speaker": "TARGET",
+            "start": 607.16,
+            "end": 614.045,
+            "duration": 6.885,
+            "overlap": false,
+            "text": "Ma'am, the dog has saved the mother bird's baby."
+        },
+        {
+            "segment_id": 63,
+            "speaker": "TARGET",
+            "start": 615.412,
+            "end": 615.968,
+            "duration": 0.557,
+            "overlap": false,
+            "text": "Okay then."
+        },
+        {
+            "segment_id": 64,
+            "speaker": "TARGET",
+            "start": 623.056,
+            "end": 623.782,
+            "duration": 0.726,
+            "overlap": true,
+            "text": "See you later."
+        }
+    ],
+    "full_transcript": "Thank you. How's your day going? How's your Sunday going? What did you do? Ma'am, it's very good. Today my cousin sister is there, so we are having fun. And my best friend is Ananya Sahil. Okay, and what do you like to watch on TV? Mom, I like to watch movies, cartoons and news. Okay, new songs are I'm the first envelope. This side. Yes, ma'am. Okay. Yes, ma'am. Yes mama, I'm ready. Okay Yes, ma'am. Once upon a time, there was a bird named Pinky. She had a very good friend named Baboon the dog One day when Pinky was very hungry and And she thought for going and collecting some food, she told her two babies that to sit, that to... sit on the nest and not to fly anywhere so when the two baby birds were sitting on the nest one hungry cruel cat came Thank you for watching. The cat came and saw them sitting on the nest. when pinkie was flying the cat was hiding behind the tree and was hearing what pinkie was telling he heard that pinkie told Bye. the two baby birds that not to fly anywhere so he took the chance and started climbing up the tree. so when So when he started to grab a baby bird pinkies friend baboon the dog saw that and started barking then pinkie came very fast and tried to save their children then baboon the dog barked Thank you. and shoot the A cat or a bee? Okay. Good, good. Ma'am, the mother bird flies away to collect some food for the babies. How do the baby birds feel? Ma'am, the baby birds feel very hungry, so the mother bird tries to collect some food. Okay. Do you think that the baby birds are feeling hungry? Ma'am, I think that the baby birds are feeling hungry because they haven't eaten food for a long time. And there it is. [unintelligible] Peace. Their mother has not got any food when they were hungry and after a few days they have... I felt more hungry in the morning. It's going to fucking do. Why does the cat climb the tree? Ma'am, the cat starts to climb the tree because the cat was also feeling hungry and he saw that the birds are there so he thought that to make the birds their food. How does the cat feel? in this picture The cat feels the... looks like... He was passing through and he saw the baby birds and he started licking his mouth. In this... Oh are being highlighted. Yes, ma'am. Ma'am, in the, um, uh, uh, just a second. In the fifth picture, the cat is climbing the tree and the baboon dog is biting his tail. He is slipping down and at the last picture, Baboon the dog shoots the cat. Ma'am, the dog grabbed the cat's tail to save the two baby birds. Thank you. Mom, maybe when he was, uh... When he was coming on, yes ma'am, when the cat started to climb the tree, the baby birds would start to cry. maybe the baby birds start to cry and when the dogs see the cat and their mother came and sat on the nest so when she hugged her babies so maybe they became quiet Thank you. Ma'am, the dog has saved the mother bird's baby. Okay then. See you later."
+}

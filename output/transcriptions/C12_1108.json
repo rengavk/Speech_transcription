@@ -1,0 +1,1379 @@
+[
+    {
+        "segment_id": 1,
+        "speaker": "SPEAKER_01",
+        "start": 1.938,
+        "end": 5.009,
+        "duration": 3.071,
+        "overlap": false,
+        "text": "You can switch on your camera and mic, keep it, leave it on."
+    },
+    {
+        "segment_id": 2,
+        "speaker": "SPEAKER_00",
+        "start": 5.009,
+        "end": 5.684,
+        "duration": 0.675,
+        "overlap": false,
+        "text": "That's all you do."
+    },
+    {
+        "segment_id": 3,
+        "speaker": "SPEAKER_01",
+        "start": 15.573,
+        "end": 16.484,
+        "duration": 0.911,
+        "overlap": false,
+        "text": "you can undo that soon."
+    },
+    {
+        "segment_id": 4,
+        "speaker": "SPEAKER_01",
+        "start": 22.103,
+        "end": 22.677,
+        "duration": 0.574,
+        "overlap": false,
+        "text": "[unintelligible]"
+    },
+    {
+        "segment_id": 5,
+        "speaker": "SPEAKER_01",
+        "start": 23.099,
+        "end": 25.833,
+        "duration": 2.734,
+        "overlap": false,
+        "text": "So I'll share my screen now, let me start."
+    },
+    {
+        "segment_id": 6,
+        "speaker": "SPEAKER_01",
+        "start": 28.263,
+        "end": 29.714,
+        "duration": 1.451,
+        "overlap": false,
+        "text": "So can you see my screen?"
+    },
+    {
+        "segment_id": 7,
+        "speaker": "SPEAKER_01",
+        "start": 33.967,
+        "end": 34.439,
+        "duration": 0.473,
+        "overlap": false,
+        "text": "Thank you."
+    },
+    {
+        "segment_id": 8,
+        "speaker": "SPEAKER_01",
+        "start": 35.283,
+        "end": 36.008,
+        "duration": 0.726,
+        "overlap": false,
+        "text": "[unintelligible]"
+    },
+    {
+        "segment_id": 9,
+        "speaker": "SPEAKER_01",
+        "start": 38.523,
+        "end": 39.468,
+        "duration": 0.945,
+        "overlap": false,
+        "text": "Okay, so..."
+    },
+    {
+        "segment_id": 10,
+        "speaker": "SPEAKER_00",
+        "start": 40.43,
+        "end": 41.408,
+        "duration": 0.979,
+        "overlap": false,
+        "text": "Let's begin."
+    },
+    {
+        "segment_id": 11,
+        "speaker": "SPEAKER_01",
+        "start": 43.552,
+        "end": 44.918,
+        "duration": 1.367,
+        "overlap": false,
+        "text": "Now, let's play a game."
+    },
+    {
+        "segment_id": 12,
+        "speaker": "SPEAKER_01",
+        "start": 45.56,
+        "end": 47.922,
+        "duration": 2.363,
+        "overlap": false,
+        "text": "I will be the swimmer who has a red suit."
+    },
+    {
+        "segment_id": 13,
+        "speaker": "SPEAKER_01",
+        "start": 48.614,
+        "end": 50.42,
+        "duration": 1.806,
+        "overlap": false,
+        "text": "and you will be this girl who has a poker"
+    },
+    {
+        "segment_id": 14,
+        "speaker": "SPEAKER_01",
+        "start": 51.382,
+        "end": 54.318,
+        "duration": 2.936,
+        "overlap": false,
+        "text": "You will choose a story that will show on your blue computer."
+    },
+    {
+        "segment_id": 15,
+        "speaker": "SPEAKER_01",
+        "start": 54.841,
+        "end": 56.798,
+        "duration": 1.958,
+        "overlap": false,
+        "text": "However, I will not say it evidently."
+    },
+    {
+        "segment_id": 16,
+        "speaker": "SPEAKER_01",
+        "start": 57.862,
+        "end": 61.051,
+        "duration": 3.189,
+        "overlap": false,
+        "text": "Then you look closely at the story and try to tell it yourself, okay?"
+    },
+    {
+        "segment_id": 17,
+        "speaker": "SPEAKER_01",
+        "start": 63.616,
+        "end": 67.025,
+        "duration": 3.409,
+        "overlap": false,
+        "text": "I'm looking forward to it and I'm curious about the story you're going to tell."
+    },
+    {
+        "segment_id": 18,
+        "speaker": "SPEAKER_01",
+        "start": 68.24,
+        "end": 72.053,
+        "duration": 3.813,
+        "overlap": true,
+        "text": "So look there are three envelopes here. There is a different story in each envelope."
+    },
+    {
+        "segment_id": 19,
+        "speaker": "SPEAKER_00",
+        "start": 70.4,
+        "end": 70.771,
+        "duration": 0.371,
+        "overlap": true,
+        "text": "There is a difference"
+    },
+    {
+        "segment_id": 20,
+        "speaker": "SPEAKER_01",
+        "start": 72.593,
+        "end": 74.652,
+        "duration": 2.059,
+        "overlap": false,
+        "text": "Choose one and then you can tell me a story."
+    },
+    {
+        "segment_id": 21,
+        "speaker": "SPEAKER_01",
+        "start": 79.242,
+        "end": 81.014,
+        "duration": 1.772,
+        "overlap": false,
+        "text": "Month plus two and the sun one."
+    },
+    {
+        "segment_id": 22,
+        "speaker": "SPEAKER_01",
+        "start": 87.308,
+        "end": 91.443,
+        "duration": 4.134,
+        "overlap": false,
+        "text": "Okay, the story you chose has come out of the envelope but you don't see it here."
+    },
+    {
+        "segment_id": 23,
+        "speaker": "SPEAKER_01",
+        "start": 91.932,
+        "end": 93.603,
+        "duration": 1.671,
+        "overlap": false,
+        "text": "The story has to unfold first."
+    },
+    {
+        "segment_id": 24,
+        "speaker": "SPEAKER_01",
+        "start": 94.531,
+        "end": 99.425,
+        "duration": 4.894,
+        "overlap": false,
+        "text": "Now take a good look. Here are our computers. Your computer is blue and my computer is red."
+    },
+    {
+        "segment_id": 25,
+        "speaker": "SPEAKER_01",
+        "start": 99.897,
+        "end": 104.234,
+        "duration": 4.337,
+        "overlap": true,
+        "text": "On your blue computer, the story will appear in color so you can see the story."
+    },
+    {
+        "segment_id": 26,
+        "speaker": "SPEAKER_01",
+        "start": 104.538,
+        "end": 106.293,
+        "duration": 1.755,
+        "overlap": true,
+        "text": "Hi, I am on my red computer."
+    },
+    {
+        "segment_id": 27,
+        "speaker": "SPEAKER_00",
+        "start": 105.736,
+        "end": 106.107,
+        "duration": 0.371,
+        "overlap": true,
+        "text": "computer"
+    },
+    {
+        "segment_id": 28,
+        "speaker": "SPEAKER_01",
+        "start": 106.833,
+        "end": 109.415,
+        "duration": 2.582,
+        "overlap": true,
+        "text": "The story won't be visible. I can't see it."
+    },
+    {
+        "segment_id": 29,
+        "speaker": "SPEAKER_01",
+        "start": 110.123,
+        "end": 110.866,
+        "duration": 0.743,
+        "overlap": false,
+        "text": "Thank you."
+    },
+    {
+        "segment_id": 30,
+        "speaker": "SPEAKER_01",
+        "start": 111.575,
+        "end": 114.072,
+        "duration": 2.498,
+        "overlap": false,
+        "text": "Now the whole story is opened on your own company."
+    },
+    {
+        "segment_id": 31,
+        "speaker": "SPEAKER_01",
+        "start": 115.068,
+        "end": 117.802,
+        "duration": 2.734,
+        "overlap": false,
+        "text": "But I don't see it. It looks like this on my red thumb."
+    },
+    {
+        "segment_id": 32,
+        "speaker": "SPEAKER_01",
+        "start": 118.73,
+        "end": 122.645,
+        "duration": 3.915,
+        "overlap": false,
+        "text": "I would like to know what story you have chosen and what it is about."
+    },
+    {
+        "segment_id": 33,
+        "speaker": "SPEAKER_01",
+        "start": 123.505,
+        "end": 132.533,
+        "duration": 9.028,
+        "overlap": true,
+        "text": "Take a look at the whole story first and then tell it to me. So take a look at the entire picture sequence and then whenever you are ready, you can go ahead with your story."
+    },
+    {
+        "segment_id": 34,
+        "speaker": "SPEAKER_00",
+        "start": 132.179,
+        "end": 132.787,
+        "duration": 0.608,
+        "overlap": true,
+        "text": "[unintelligible]"
+    },
+    {
+        "segment_id": 35,
+        "speaker": "SPEAKER_01",
+        "start": 138.052,
+        "end": 138.592,
+        "duration": 0.54,
+        "overlap": false,
+        "text": "Yes, ma'am."
+    },
+    {
+        "segment_id": 36,
+        "speaker": "SPEAKER_00",
+        "start": 140.937,
+        "end": 141.848,
+        "duration": 0.911,
+        "overlap": false,
+        "text": "So whenever you're ready, tell me."
+    },
+    {
+        "segment_id": 37,
+        "speaker": "SPEAKER_01",
+        "start": 141.848,
+        "end": 142.169,
+        "duration": 0.321,
+        "overlap": false,
+        "text": "[unintelligible]"
+    },
+    {
+        "segment_id": 38,
+        "speaker": "SPEAKER_00",
+        "start": 159.213,
+        "end": 160.023,
+        "duration": 0.81,
+        "overlap": false,
+        "text": "Thank you."
+    },
+    {
+        "segment_id": 39,
+        "speaker": "SPEAKER_00",
+        "start": 205.923,
+        "end": 208.336,
+        "duration": 2.413,
+        "overlap": false,
+        "text": "Mom, can I have some time for this?"
+    },
+    {
+        "segment_id": 40,
+        "speaker": "SPEAKER_01",
+        "start": 209.112,
+        "end": 210.344,
+        "duration": 1.232,
+        "overlap": false,
+        "text": "That was so hard to do."
+    },
+    {
+        "segment_id": 41,
+        "speaker": "SPEAKER_01",
+        "start": 355.098,
+        "end": 356.212,
+        "duration": 1.114,
+        "overlap": false,
+        "text": "Are you sure you're ready?"
+    },
+    {
+        "segment_id": 42,
+        "speaker": "SPEAKER_00",
+        "start": 359.215,
+        "end": 360.565,
+        "duration": 1.35,
+        "overlap": false,
+        "text": "Yes, ma'am. Yes, ma'am. Just a minute."
+    },
+    {
+        "segment_id": 43,
+        "speaker": "SPEAKER_01",
+        "start": 370.943,
+        "end": 373.981,
+        "duration": 3.038,
+        "overlap": false,
+        "text": "I can't see it now."
+    },
+    {
+        "segment_id": 44,
+        "speaker": "SPEAKER_00",
+        "start": 375.112,
+        "end": 376.377,
+        "duration": 1.266,
+        "overlap": false,
+        "text": "I will stop soon."
+    },
+    {
+        "segment_id": 45,
+        "speaker": "SPEAKER_00",
+        "start": 378.841,
+        "end": 379.887,
+        "duration": 1.046,
+        "overlap": false,
+        "text": "Can you not see the screen?"
+    },
+    {
+        "segment_id": 46,
+        "speaker": "SPEAKER_01",
+        "start": 382.992,
+        "end": 385.675,
+        "duration": 2.683,
+        "overlap": false,
+        "text": "No mom, uh, yeah, stop shitting, I think."
+    },
+    {
+        "segment_id": 47,
+        "speaker": "SPEAKER_00",
+        "start": 386.435,
+        "end": 388.105,
+        "duration": 1.671,
+        "overlap": false,
+        "text": "Okay, we're done sharing the video."
+    },
+    {
+        "segment_id": 48,
+        "speaker": "SPEAKER_01",
+        "start": 393.303,
+        "end": 394.028,
+        "duration": 0.726,
+        "overlap": false,
+        "text": "Can you see it now?"
+    },
+    {
+        "segment_id": 49,
+        "speaker": "SPEAKER_00",
+        "start": 396.931,
+        "end": 398.973,
+        "duration": 2.042,
+        "overlap": false,
+        "text": "Yes, ma'am."
+    },
+    {
+        "segment_id": 50,
+        "speaker": "SPEAKER_00",
+        "start": 490.975,
+        "end": 492.393,
+        "duration": 1.418,
+        "overlap": false,
+        "text": "Yes, ma'am, I can't believe it."
+    },
+    {
+        "segment_id": 51,
+        "speaker": "SPEAKER_00",
+        "start": 494.772,
+        "end": 495.16,
+        "duration": 0.388,
+        "overlap": false,
+        "text": "Peace out."
+    },
+    {
+        "segment_id": 52,
+        "speaker": "SPEAKER_01",
+        "start": 495.16,
+        "end": 498.248,
+        "duration": 3.088,
+        "overlap": false,
+        "text": "So look at the pictures and tell me the best story you got."
+    },
+    {
+        "segment_id": 53,
+        "speaker": "SPEAKER_01",
+        "start": 502.973,
+        "end": 503.463,
+        "duration": 0.489,
+        "overlap": false,
+        "text": "Yes, ma'am."
+    },
+    {
+        "segment_id": 54,
+        "speaker": "SPEAKER_01",
+        "start": 504.88,
+        "end": 510.466,
+        "duration": 5.586,
+        "overlap": false,
+        "text": "Once upon a time, there was a girl thinking to take her kid to the nearby riverbank."
+    },
+    {
+        "segment_id": 55,
+        "speaker": "SPEAKER_01",
+        "start": 514.685,
+        "end": 518.87,
+        "duration": 4.185,
+        "overlap": false,
+        "text": "I stood them in line and took them to the nearby river."
+    },
+    {
+        "segment_id": 56,
+        "speaker": "SPEAKER_01",
+        "start": 519.292,
+        "end": 522.177,
+        "duration": 2.885,
+        "overlap": false,
+        "text": "What if this kid jumped into the-"
+    },
+    {
+        "segment_id": 57,
+        "speaker": "SPEAKER_01",
+        "start": 523.747,
+        "end": 524.607,
+        "duration": 0.861,
+        "overlap": false,
+        "text": "Uh, ARIVA."
+    },
+    {
+        "segment_id": 58,
+        "speaker": "SPEAKER_01",
+        "start": 525.552,
+        "end": 527.307,
+        "duration": 1.755,
+        "overlap": false,
+        "text": "She was worried how to take out."
+    },
+    {
+        "segment_id": 59,
+        "speaker": "SPEAKER_01",
+        "start": 528.877,
+        "end": 532.927,
+        "duration": 4.05,
+        "overlap": false,
+        "text": "Not, uh, the kids, right? Well, help me, Mom. Help me, Mom."
+    },
+    {
+        "segment_id": 60,
+        "speaker": "SPEAKER_01",
+        "start": 533.602,
+        "end": 540.571,
+        "duration": 6.969,
+        "overlap": false,
+        "text": "There was a big brown fox in the tree looking how to kill the kid and eat. Mom, can you show me a second?"
+    },
+    {
+        "segment_id": 61,
+        "speaker": "SPEAKER_01",
+        "start": 542.427,
+        "end": 543.119,
+        "duration": 0.692,
+        "overlap": false,
+        "text": "Yeah."
+    },
+    {
+        "segment_id": 62,
+        "speaker": "SPEAKER_01",
+        "start": 546.815,
+        "end": 549.127,
+        "duration": 2.312,
+        "overlap": false,
+        "text": "When the blindfolds jumped out"
+    },
+    {
+        "segment_id": 63,
+        "speaker": "SPEAKER_01",
+        "start": 549.785,
+        "end": 552.704,
+        "duration": 2.919,
+        "overlap": false,
+        "text": "The kids shouted, Mom, there's a fox!"
+    },
+    {
+        "segment_id": 64,
+        "speaker": "SPEAKER_01",
+        "start": 555.792,
+        "end": 557.024,
+        "duration": 1.232,
+        "overlap": false,
+        "text": "In the meantime..."
+    },
+    {
+        "segment_id": 65,
+        "speaker": "SPEAKER_01",
+        "start": 558.053,
+        "end": 562.458,
+        "duration": 4.405,
+        "overlap": false,
+        "text": "the tree when he looked down he saw I don't know."
+    },
+    {
+        "segment_id": 66,
+        "speaker": "SPEAKER_01",
+        "start": 563.808,
+        "end": 565.985,
+        "duration": 2.177,
+        "overlap": false,
+        "text": "A kid, a lamb, looking danger."
+    },
+    {
+        "segment_id": 67,
+        "speaker": "SPEAKER_01",
+        "start": 567.065,
+        "end": 573.815,
+        "duration": 6.75,
+        "overlap": false,
+        "text": "To save him out of danger, he bit the fox again and again to save himself."
+    },
+    {
+        "segment_id": 68,
+        "speaker": "SPEAKER_01",
+        "start": 576.346,
+        "end": 577.139,
+        "duration": 0.793,
+        "overlap": false,
+        "text": "I don't know."
+    },
+    {
+        "segment_id": 69,
+        "speaker": "SPEAKER_01",
+        "start": 583.855,
+        "end": 584.395,
+        "duration": 0.54,
+        "overlap": false,
+        "text": "Thank you for watching!"
+    },
+    {
+        "segment_id": 70,
+        "speaker": "SPEAKER_01",
+        "start": 592.377,
+        "end": 598.064,
+        "duration": 5.687,
+        "overlap": true,
+        "text": "Don't worry about this. Don't get nervous. It's just a storytelling thing. It's not about how well you say a story or not."
+    },
+    {
+        "segment_id": 71,
+        "speaker": "SPEAKER_00",
+        "start": 596.495,
+        "end": 597.44,
+        "duration": 0.945,
+        "overlap": true,
+        "text": "how well you say it's good."
+    },
+    {
+        "segment_id": 72,
+        "speaker": "SPEAKER_01",
+        "start": 598.807,
+        "end": 602.924,
+        "duration": 4.117,
+        "overlap": true,
+        "text": "not we just add like you were looking at how the process behind"
+    },
+    {
+        "segment_id": 73,
+        "speaker": "SPEAKER_00",
+        "start": 602.468,
+        "end": 602.975,
+        "duration": 0.507,
+        "overlap": true,
+        "text": "Thanks."
+    },
+    {
+        "segment_id": 74,
+        "speaker": "SPEAKER_01",
+        "start": 602.975,
+        "end": 605.54,
+        "duration": 2.565,
+        "overlap": false,
+        "text": "students, don't get very nervous. You'll take your time."
+    },
+    {
+        "segment_id": 75,
+        "speaker": "SPEAKER_01",
+        "start": 606.248,
+        "end": 606.974,
+        "duration": 0.726,
+        "overlap": false,
+        "text": "Proud to be here."
+    },
+    {
+        "segment_id": 76,
+        "speaker": "SPEAKER_00",
+        "start": 607.126,
+        "end": 607.835,
+        "duration": 0.709,
+        "overlap": false,
+        "text": "I love you so much."
+    },
+    {
+        "segment_id": 77,
+        "speaker": "SPEAKER_01",
+        "start": 608.138,
+        "end": 609.1,
+        "duration": 0.962,
+        "overlap": false,
+        "text": "Don't get nervous."
+    },
+    {
+        "segment_id": 78,
+        "speaker": "SPEAKER_01",
+        "start": 623.41,
+        "end": 624.001,
+        "duration": 0.591,
+        "overlap": false,
+        "text": "Yes, ma'am."
+    },
+    {
+        "segment_id": 79,
+        "speaker": "SPEAKER_01",
+        "start": 624.642,
+        "end": 627.832,
+        "duration": 3.189,
+        "overlap": false,
+        "text": "The crow bit the box again and again to set the pitch."
+    },
+    {
+        "segment_id": 80,
+        "speaker": "SPEAKER_01",
+        "start": 628.321,
+        "end": 630.008,
+        "duration": 1.688,
+        "overlap": false,
+        "text": "At last, he saved her."
+    },
+    {
+        "segment_id": 81,
+        "speaker": "SPEAKER_01",
+        "start": 631.612,
+        "end": 632.472,
+        "duration": 0.861,
+        "overlap": false,
+        "text": "The Mud Dogs?"
+    },
+    {
+        "segment_id": 82,
+        "speaker": "SPEAKER_01",
+        "start": 633.755,
+        "end": 637.028,
+        "duration": 3.274,
+        "overlap": false,
+        "text": "The school and little kid and took quickly back."
+    },
+    {
+        "segment_id": 83,
+        "speaker": "SPEAKER_00",
+        "start": 637.028,
+        "end": 638.767,
+        "duration": 1.738,
+        "overlap": false,
+        "text": "back to the room. Thank you."
+    },
+    {
+        "segment_id": 84,
+        "speaker": "SPEAKER_00",
+        "start": 640.032,
+        "end": 640.792,
+        "duration": 0.759,
+        "overlap": false,
+        "text": "Thank you."
+    },
+    {
+        "segment_id": 85,
+        "speaker": "SPEAKER_01",
+        "start": 641.483,
+        "end": 645.23,
+        "duration": 3.747,
+        "overlap": false,
+        "text": "So, look, very good, very good. First of all, very good."
+    },
+    {
+        "segment_id": 86,
+        "speaker": "SPEAKER_01",
+        "start": 645.28,
+        "end": 652.283,
+        "duration": 7.003,
+        "overlap": false,
+        "text": "you are told this very nicely okay so look there are computers again your computer is blue and my computer is red"
+    },
+    {
+        "segment_id": 87,
+        "speaker": "SPEAKER_01",
+        "start": 652.739,
+        "end": 656.266,
+        "duration": 3.527,
+        "overlap": false,
+        "text": "On your blue computer, the story appears like this in color."
+    },
+    {
+        "segment_id": 88,
+        "speaker": "SPEAKER_01",
+        "start": 656.84,
+        "end": 660.198,
+        "duration": 3.358,
+        "overlap": false,
+        "text": "And on my red computer, the stories are now also showing color."
+    },
+    {
+        "segment_id": 89,
+        "speaker": "SPEAKER_01",
+        "start": 661.058,
+        "end": 662.425,
+        "duration": 1.367,
+        "overlap": false,
+        "text": "Now we both can see the sun."
+    },
+    {
+        "segment_id": 90,
+        "speaker": "SPEAKER_01",
+        "start": 662.83,
+        "end": 664.788,
+        "duration": 1.957,
+        "overlap": true,
+        "text": "I'd like to ask you some questions about the school."
+    },
+    {
+        "segment_id": 91,
+        "speaker": "SPEAKER_00",
+        "start": 664.4,
+        "end": 665.092,
+        "duration": 0.692,
+        "overlap": true,
+        "text": "about the story."
+    },
+    {
+        "segment_id": 92,
+        "speaker": "SPEAKER_01",
+        "start": 664.805,
+        "end": 665.108,
+        "duration": 0.303,
+        "overlap": true,
+        "text": "this video."
+    },
+    {
+        "segment_id": 93,
+        "speaker": "SPEAKER_01",
+        "start": 665.918,
+        "end": 667.707,
+        "duration": 1.789,
+        "overlap": false,
+        "text": "So tell me first, did you like the story?"
+    },
+    {
+        "segment_id": 94,
+        "speaker": "SPEAKER_01",
+        "start": 669.209,
+        "end": 669.884,
+        "duration": 0.675,
+        "overlap": false,
+        "text": "Yes ma'am."
+    },
+    {
+        "segment_id": 95,
+        "speaker": "SPEAKER_00",
+        "start": 670.88,
+        "end": 671.96,
+        "duration": 1.08,
+        "overlap": false,
+        "text": "Okay."
+    },
+    {
+        "segment_id": 96,
+        "speaker": "SPEAKER_00",
+        "start": 672.837,
+        "end": 673.31,
+        "duration": 0.472,
+        "overlap": false,
+        "text": "Thank you."
+    },
+    {
+        "segment_id": 97,
+        "speaker": "SPEAKER_00",
+        "start": 685.797,
+        "end": 686.253,
+        "duration": 0.456,
+        "overlap": false,
+        "text": "Okay."
+    },
+    {
+        "segment_id": 98,
+        "speaker": "SPEAKER_00",
+        "start": 686.742,
+        "end": 687.181,
+        "duration": 0.439,
+        "overlap": false,
+        "text": "So."
+    },
+    {
+        "segment_id": 99,
+        "speaker": "SPEAKER_01",
+        "start": 687.805,
+        "end": 688.598,
+        "duration": 0.793,
+        "overlap": false,
+        "text": "In these two pictures,"
+    },
+    {
+        "segment_id": 100,
+        "speaker": "SPEAKER_00",
+        "start": 688.598,
+        "end": 689.003,
+        "duration": 0.405,
+        "overlap": false,
+        "text": "pictures."
+    },
+    {
+        "segment_id": 101,
+        "speaker": "SPEAKER_01",
+        "start": 689.307,
+        "end": 691.079,
+        "duration": 1.772,
+        "overlap": false,
+        "text": "Why was a mother goat in the water?"
+    },
+    {
+        "segment_id": 102,
+        "speaker": "SPEAKER_01",
+        "start": 695.062,
+        "end": 702.368,
+        "duration": 7.307,
+        "overlap": false,
+        "text": "Because when a poor kid has jumped into the water, I think he was about to drown for helping her."
+    },
+    {
+        "segment_id": 103,
+        "speaker": "SPEAKER_01",
+        "start": 703.432,
+        "end": 705.237,
+        "duration": 1.806,
+        "overlap": false,
+        "text": "But I don't know if I have anything to say about that."
+    },
+    {
+        "segment_id": 104,
+        "speaker": "SPEAKER_01",
+        "start": 708.595,
+        "end": 709.726,
+        "duration": 1.131,
+        "overlap": false,
+        "text": "In this picture"
+    },
+    {
+        "segment_id": 105,
+        "speaker": "SPEAKER_00",
+        "start": 710.182,
+        "end": 711.65,
+        "duration": 1.468,
+        "overlap": false,
+        "text": "How does the baby goat see?"
+    },
+    {
+        "segment_id": 106,
+        "speaker": "SPEAKER_01",
+        "start": 717.269,
+        "end": 718.18,
+        "duration": 0.911,
+        "overlap": false,
+        "text": "Mom, I..."
+    },
+    {
+        "segment_id": 107,
+        "speaker": "SPEAKER_01",
+        "start": 718.298,
+        "end": 718.872,
+        "duration": 0.574,
+        "overlap": false,
+        "text": "It is a baby."
+    },
+    {
+        "segment_id": 108,
+        "speaker": "SPEAKER_00",
+        "start": 718.872,
+        "end": 720.458,
+        "duration": 1.586,
+        "overlap": false,
+        "text": "a baby, so it looks very cool."
+    },
+    {
+        "segment_id": 109,
+        "speaker": "SPEAKER_01",
+        "start": 722.517,
+        "end": 724.458,
+        "duration": 1.941,
+        "overlap": false,
+        "text": "But like, here, the baby mode..."
+    },
+    {
+        "segment_id": 110,
+        "speaker": "SPEAKER_01",
+        "start": 724.913,
+        "end": 728.913,
+        "duration": 3.999,
+        "overlap": false,
+        "text": "So what do you think the baby goat is feeling at this moment?"
+    },
+    {
+        "segment_id": 111,
+        "speaker": "SPEAKER_00",
+        "start": 731.967,
+        "end": 733.03,
+        "duration": 1.063,
+        "overlap": false,
+        "text": "Uh, so..."
+    },
+    {
+        "segment_id": 112,
+        "speaker": "SPEAKER_00",
+        "start": 738.211,
+        "end": 740.523,
+        "duration": 2.312,
+        "overlap": false,
+        "text": "I think it is very scared."
+    },
+    {
+        "segment_id": 113,
+        "speaker": "SPEAKER_01",
+        "start": 742.953,
+        "end": 744.792,
+        "duration": 1.839,
+        "overlap": false,
+        "text": "Why do you think I'm really scared?"
+    },
+    {
+        "segment_id": 114,
+        "speaker": "SPEAKER_00",
+        "start": 756.959,
+        "end": 758.967,
+        "duration": 2.008,
+        "overlap": false,
+        "text": "Maybe she's crying for help."
+    },
+    {
+        "segment_id": 115,
+        "speaker": "SPEAKER_00",
+        "start": 759.203,
+        "end": 759.963,
+        "duration": 0.759,
+        "overlap": false,
+        "text": "And."
+    },
+    {
+        "segment_id": 116,
+        "speaker": "SPEAKER_01",
+        "start": 762.292,
+        "end": 763.034,
+        "duration": 0.743,
+        "overlap": false,
+        "text": "She's a little girl."
+    },
+    {
+        "segment_id": 117,
+        "speaker": "SPEAKER_00",
+        "start": 763.034,
+        "end": 767.05,
+        "duration": 4.016,
+        "overlap": false,
+        "text": "I fell down in the water."
+    },
+    {
+        "segment_id": 118,
+        "speaker": "SPEAKER_01",
+        "start": 770.459,
+        "end": 772.197,
+        "duration": 1.738,
+        "overlap": true,
+        "text": "So in this picture"
+    },
+    {
+        "segment_id": 119,
+        "speaker": "SPEAKER_01",
+        "start": 772.501,
+        "end": 774.56,
+        "duration": 2.059,
+        "overlap": false,
+        "text": "Why does the fox jump forward?"
+    },
+    {
+        "segment_id": 120,
+        "speaker": "SPEAKER_01",
+        "start": 779.892,
+        "end": 788.043,
+        "duration": 8.151,
+        "overlap": false,
+        "text": "When the folks saw that the mother was in the water, they saw that she's not there with her second kid."
+    },
+    {
+        "segment_id": 121,
+        "speaker": "SPEAKER_01",
+        "start": 788.819,
+        "end": 794.017,
+        "duration": 5.198,
+        "overlap": false,
+        "text": "Call that I can kill that and eat it."
+    },
+    {
+        "segment_id": 122,
+        "speaker": "SPEAKER_01",
+        "start": 794.422,
+        "end": 795.215,
+        "duration": 0.793,
+        "overlap": false,
+        "text": "Much enjoyed."
+    },
+    {
+        "segment_id": 123,
+        "speaker": "SPEAKER_01",
+        "start": 797.763,
+        "end": 801.003,
+        "duration": 3.24,
+        "overlap": false,
+        "text": "And in these two pictures, how does the fox feel?"
+    },
+    {
+        "segment_id": 124,
+        "speaker": "SPEAKER_01",
+        "start": 805.137,
+        "end": 806.032,
+        "duration": 0.894,
+        "overlap": false,
+        "text": "It is crying out in pain."
+    },
+    {
+        "segment_id": 125,
+        "speaker": "SPEAKER_00",
+        "start": 806.032,
+        "end": 806.977,
+        "duration": 0.945,
+        "overlap": false,
+        "text": "[unintelligible]"
+    },
+    {
+        "segment_id": 126,
+        "speaker": "SPEAKER_00",
+        "start": 807.027,
+        "end": 807.938,
+        "duration": 0.911,
+        "overlap": false,
+        "text": "[unintelligible]"
+    },
+    {
+        "segment_id": 127,
+        "speaker": "SPEAKER_01",
+        "start": 811.634,
+        "end": 812.663,
+        "duration": 1.029,
+        "overlap": false,
+        "text": "In this picture,"
+    },
+    {
+        "segment_id": 128,
+        "speaker": "SPEAKER_01",
+        "start": 813.828,
+        "end": 814.351,
+        "duration": 0.523,
+        "overlap": false,
+        "text": "Uh..."
+    },
+    {
+        "segment_id": 129,
+        "speaker": "SPEAKER_01",
+        "start": 814.857,
+        "end": 817.135,
+        "duration": 2.278,
+        "overlap": false,
+        "text": "Why does the bird bite the fox's tail?"
+    },
+    {
+        "segment_id": 130,
+        "speaker": "SPEAKER_01",
+        "start": 819.177,
+        "end": 820.831,
+        "duration": 1.654,
+        "overlap": false,
+        "text": "to save the little locket."
+    },
+    {
+        "segment_id": 131,
+        "speaker": "SPEAKER_01",
+        "start": 823.615,
+        "end": 827.227,
+        "duration": 3.611,
+        "overlap": false,
+        "text": "Okay, and in this picture, imagine that the bird sees the goat."
+    },
+    {
+        "segment_id": 132,
+        "speaker": "SPEAKER_00",
+        "start": 827.227,
+        "end": 827.581,
+        "duration": 0.354,
+        "overlap": false,
+        "text": "[unintelligible]"
+    },
+    {
+        "segment_id": 133,
+        "speaker": "SPEAKER_01",
+        "start": 828.07,
+        "end": 829.37,
+        "duration": 1.299,
+        "overlap": false,
+        "text": "How does the bird feel?"
+    },
+    {
+        "segment_id": 134,
+        "speaker": "SPEAKER_00",
+        "start": 848.422,
+        "end": 849.13,
+        "duration": 0.709,
+        "overlap": false,
+        "text": "you know, I use it."
+    },
+    {
+        "segment_id": 135,
+        "speaker": "SPEAKER_01",
+        "start": 851.088,
+        "end": 854.581,
+        "duration": 3.493,
+        "overlap": false,
+        "text": "Yes, Mom, just do it."
+    },
+    {
+        "segment_id": 136,
+        "speaker": "SPEAKER_00",
+        "start": 855.188,
+        "end": 855.88,
+        "duration": 0.692,
+        "overlap": false,
+        "text": "Yeah, go ahead."
+    },
+    {
+        "segment_id": 137,
+        "speaker": "SPEAKER_01",
+        "start": 869.988,
+        "end": 870.393,
+        "duration": 0.405,
+        "overlap": false,
+        "text": "Thank you."
+    },
+    {
+        "segment_id": 138,
+        "speaker": "SPEAKER_00",
+        "start": 885.125,
+        "end": 887.048,
+        "duration": 1.924,
+        "overlap": false,
+        "text": "I'm my pink dog."
+    },
+    {
+        "segment_id": 139,
+        "speaker": "SPEAKER_01",
+        "start": 888.365,
+        "end": 889.276,
+        "duration": 0.911,
+        "overlap": false,
+        "text": "[unintelligible]"
+    },
+    {
+        "segment_id": 140,
+        "speaker": "SPEAKER_01",
+        "start": 891.807,
+        "end": 896.887,
+        "duration": 5.079,
+        "overlap": false,
+        "text": "Well, I think the crow will feel happy that he has saved the life."
+    },
+    {
+        "segment_id": 141,
+        "speaker": "SPEAKER_01",
+        "start": 901.865,
+        "end": 909.475,
+        "duration": 7.611,
+        "overlap": true,
+        "text": "So, in the entire story, who do you think the mother goat likes the best? The fox and the bird or the bird."
+    },
+    {
+        "segment_id": 142,
+        "speaker": "SPEAKER_00",
+        "start": 908.463,
+        "end": 909.442,
+        "duration": 0.979,
+        "overlap": true,
+        "text": "and the bird, or the bull."
+    },
+    {
+        "segment_id": 143,
+        "speaker": "SPEAKER_01",
+        "start": 910.066,
+        "end": 911.247,
+        "duration": 1.181,
+        "overlap": false,
+        "text": "Which one? And why?"
+    },
+    {
+        "segment_id": 144,
+        "speaker": "SPEAKER_01",
+        "start": 913.154,
+        "end": 918.183,
+        "duration": 5.029,
+        "overlap": true,
+        "text": "Obviously, the board because the board has saved the kids."
+    },
+    {
+        "segment_id": 145,
+        "speaker": "SPEAKER_00",
+        "start": 915.618,
+        "end": 916.377,
+        "duration": 0.759,
+        "overlap": true,
+        "text": "The Lord has seen."
+    },
+    {
+        "segment_id": 146,
+        "speaker": "SPEAKER_00",
+        "start": 918.318,
+        "end": 918.875,
+        "duration": 0.557,
+        "overlap": false,
+        "text": "Salaam."
+    },
+    {
+        "segment_id": 147,
+        "speaker": "SPEAKER_00",
+        "start": 919.027,
+        "end": 919.516,
+        "duration": 0.489,
+        "overlap": false,
+        "text": "uh, light."
+    },
+    {
+        "segment_id": 148,
+        "speaker": "SPEAKER_01",
+        "start": 919.516,
+        "end": 919.921,
+        "duration": 0.405,
+        "overlap": false,
+        "text": "Bye-bye."
+    },
+    {
+        "segment_id": 149,
+        "speaker": "SPEAKER_00",
+        "start": 919.921,
+        "end": 921.119,
+        "duration": 1.198,
+        "overlap": false,
+        "text": "Hufflepuff landslide."
+    },
+    {
+        "segment_id": 150,
+        "speaker": "SPEAKER_01",
+        "start": 923.431,
+        "end": 926.637,
+        "duration": 3.206,
+        "overlap": false,
+        "text": "Thank you so much, Arushi. Thank you so much for helping me."
+    },
+    {
+        "segment_id": 151,
+        "speaker": "SPEAKER_01",
+        "start": 927.245,
+        "end": 928.088,
+        "duration": 0.843,
+        "overlap": false,
+        "text": "I will get back."
+    },
+    {
+        "segment_id": 152,
+        "speaker": "SPEAKER_01",
+        "start": 929.202,
+        "end": 933.539,
+        "duration": 4.337,
+        "overlap": true,
+        "text": "next week in the next week and we'll do another storytelling in korea"
+    },
+    {
+        "segment_id": 153,
+        "speaker": "SPEAKER_01",
+        "start": 937.319,
+        "end": 940.745,
+        "duration": 3.426,
+        "overlap": false,
+        "text": "Thank you so much for helping me. Have a nice Sunday. Bye-bye."
+    }
+]

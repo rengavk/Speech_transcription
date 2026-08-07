@@ -1,0 +1,15 @@
+{
+    "audio_file": "C11_1103.wav",
+    "speakers": {
+        "SPEAKER_00": {
+            "turns": 88,
+            "speaking_time": 213.59,
+            "conversation_share": 39.06
+        },
+        "SPEAKER_01": {
+            "turns": 95,
+            "speaking_time": 333.23,
+            "conversation_share": 60.94
+        }
+    }
+}

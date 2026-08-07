@@ -1,0 +1,26 @@
+{
+    "audio_file": "C08_909.json",
+    "target_speaker": "SPEAKER_00",
+    "selection_method": "automatic",
+    "confidence": 0.117,
+    "speaker_statistics": {
+        "SPEAKER_00": {
+            "turns": 92,
+            "speaking_time": 198.91,
+            "word_count": 519,
+            "avg_turn_duration": 2.16,
+            "longest_turn": 12.55
+        },
+        "SPEAKER_01": {
+            "turns": 62,
+            "speaking_time": 163.6,
+            "word_count": 574,
+            "avg_turn_duration": 2.64,
+            "longest_turn": 8.59
+        }
+    },
+    "speaker_scores": {
+        "SPEAKER_00": 0.9628,
+        "SPEAKER_01": 0.846
+    }
+}

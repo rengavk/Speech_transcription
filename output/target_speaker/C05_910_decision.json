@@ -1,0 +1,26 @@
+{
+    "audio_file": "C05_910.json",
+    "target_speaker": "SPEAKER_00",
+    "selection_method": "automatic",
+    "confidence": 0.18,
+    "speaker_statistics": {
+        "SPEAKER_01": {
+            "turns": 77,
+            "speaking_time": 178.46,
+            "word_count": 626,
+            "avg_turn_duration": 2.32,
+            "longest_turn": 9.72
+        },
+        "SPEAKER_00": {
+            "turns": 64,
+            "speaking_time": 282.64,
+            "word_count": 571,
+            "avg_turn_duration": 4.42,
+            "longest_turn": 20.35
+        }
+    },
+    "speaker_scores": {
+        "SPEAKER_01": 0.7682,
+        "SPEAKER_00": 0.9487
+    }
+}

@@ -1,0 +1,419 @@
+{
+    "audio_file": "C14_1107_target.json",
+    "segments": [
+        {
+            "segment_id": 1,
+            "speaker": "TARGET",
+            "start": 62.215,
+            "end": 62.722,
+            "duration": 0.506,
+            "overlap": false,
+            "text": "Yes, ma'am."
+        },
+        {
+            "segment_id": 2,
+            "speaker": "TARGET",
+            "start": 64.578,
+            "end": 67.278,
+            "duration": 2.7,
+            "overlap": false,
+            "text": "You look at the pictures and try to tell the best story you can."
+        },
+        {
+            "segment_id": 3,
+            "speaker": "TARGET",
+            "start": 74.99,
+            "end": 75.665,
+            "duration": 0.675,
+            "overlap": false,
+            "text": "Go ahead."
+        },
+        {
+            "segment_id": 4,
+            "speaker": "TARGET",
+            "start": 103.036,
+            "end": 104.588,
+            "duration": 1.552,
+            "overlap": false,
+            "text": "What did he do to eat them?"
+        },
+        {
+            "segment_id": 5,
+            "speaker": "TARGET",
+            "start": 110.022,
+            "end": 110.647,
+            "duration": 0.624,
+            "overlap": false,
+            "text": "[unintelligible]"
+        },
+        {
+            "segment_id": 6,
+            "speaker": "TARGET",
+            "start": 112.537,
+            "end": 116.873,
+            "duration": 4.336,
+            "overlap": false,
+            "text": "When the mother bird went to..."
+        },
+        {
+            "segment_id": 7,
+            "speaker": "TARGET",
+            "start": 127.032,
+            "end": 127.589,
+            "duration": 0.557,
+            "overlap": false,
+            "text": "Bye, Sue."
+        },
+        {
+            "segment_id": 8,
+            "speaker": "TARGET",
+            "start": 139.958,
+            "end": 142.861,
+            "duration": 2.903,
+            "overlap": false,
+            "text": "The fox started to climb on the tree."
+        },
+        {
+            "segment_id": 9,
+            "speaker": "TARGET",
+            "start": 150.64,
+            "end": 151.973,
+            "duration": 1.333,
+            "overlap": false,
+            "text": "The fog started to climb."
+        },
+        {
+            "segment_id": 10,
+            "speaker": "TARGET",
+            "start": 182.534,
+            "end": 183.108,
+            "duration": 0.574,
+            "overlap": false,
+            "text": "Bye."
+        },
+        {
+            "segment_id": 11,
+            "speaker": "TARGET",
+            "start": 192.473,
+            "end": 194.971,
+            "duration": 2.498,
+            "overlap": true,
+            "text": "Anything else? And made him run back back."
+        },
+        {
+            "segment_id": 12,
+            "speaker": "TARGET",
+            "start": 195.038,
+            "end": 195.967,
+            "duration": 0.928,
+            "overlap": false,
+            "text": "back to the forest"
+        },
+        {
+            "segment_id": 13,
+            "speaker": "TARGET",
+            "start": 199.544,
+            "end": 201.367,
+            "duration": 1.823,
+            "overlap": false,
+            "text": "Okay, very good, very nice."
+        },
+        {
+            "segment_id": 14,
+            "speaker": "TARGET",
+            "start": 202.767,
+            "end": 207.458,
+            "duration": 4.691,
+            "overlap": false,
+            "text": "So, look there are our computers again. Your computer is blue and my computer is red."
+        },
+        {
+            "segment_id": 15,
+            "speaker": "TARGET",
+            "start": 208.032,
+            "end": 211.188,
+            "duration": 3.156,
+            "overlap": false,
+            "text": "On a blue computer, the story appears like this in color."
+        },
+        {
+            "segment_id": 16,
+            "speaker": "TARGET",
+            "start": 211.812,
+            "end": 214.546,
+            "duration": 2.734,
+            "overlap": false,
+            "text": "And on my red computer, the story will also show in color."
+        },
+        {
+            "segment_id": 17,
+            "speaker": "TARGET",
+            "start": 215.305,
+            "end": 216.773,
+            "duration": 1.468,
+            "overlap": false,
+            "text": "Now we both can see the story."
+        },
+        {
+            "segment_id": 18,
+            "speaker": "TARGET",
+            "start": 217.432,
+            "end": 220.705,
+            "duration": 3.274,
+            "overlap": false,
+            "text": "So, I'd like to ask you some questions about the story, okay?"
+        },
+        {
+            "segment_id": 19,
+            "speaker": "TARGET",
+            "start": 224.468,
+            "end": 225.127,
+            "duration": 0.658,
+            "overlap": false,
+            "text": "Yes, ma'am."
+        },
+        {
+            "segment_id": 20,
+            "speaker": "TARGET",
+            "start": 226.493,
+            "end": 227.945,
+            "duration": 1.451,
+            "overlap": false,
+            "text": "So, Pam, did you like the story?"
+        },
+        {
+            "segment_id": 21,
+            "speaker": "TARGET",
+            "start": 232.552,
+            "end": 233.21,
+            "duration": 0.658,
+            "overlap": false,
+            "text": "Yes, ma'am."
+        },
+        {
+            "segment_id": 22,
+            "speaker": "TARGET",
+            "start": 235.893,
+            "end": 238.525,
+            "duration": 2.632,
+            "overlap": true,
+            "text": "In this picture, why does the mother bird fly away?"
+        },
+        {
+            "segment_id": 23,
+            "speaker": "TARGET",
+            "start": 238.897,
+            "end": 240.061,
+            "duration": 1.164,
+            "overlap": false,
+            "text": "in these two pictures."
+        },
+        {
+            "segment_id": 24,
+            "speaker": "TARGET",
+            "start": 256.278,
+            "end": 259.18,
+            "duration": 2.903,
+            "overlap": true,
+            "text": "In this picture, how do the baby birds feed?"
+        },
+        {
+            "segment_id": 25,
+            "speaker": "TARGET",
+            "start": 263.095,
+            "end": 263.433,
+            "duration": 0.337,
+            "overlap": false,
+            "text": "Mom?"
+        },
+        {
+            "segment_id": 26,
+            "speaker": "TARGET",
+            "start": 264.53,
+            "end": 268.816,
+            "duration": 4.286,
+            "overlap": false,
+            "text": "In this In this picture, how are the baby birds feeling?"
+        },
+        {
+            "segment_id": 27,
+            "speaker": "TARGET",
+            "start": 296.963,
+            "end": 299.663,
+            "duration": 2.7,
+            "overlap": false,
+            "text": "In this picture, why does the fox climb the tree?"
+        },
+        {
+            "segment_id": 28,
+            "speaker": "TARGET",
+            "start": 302.296,
+            "end": 305.789,
+            "duration": 3.493,
+            "overlap": false,
+            "text": "Ma'am, the fox wanted to eat the..."
+        },
+        {
+            "segment_id": 29,
+            "speaker": "TARGET",
+            "start": 306.818,
+            "end": 308.742,
+            "duration": 1.924,
+            "overlap": false,
+            "text": "young birds will"
+        },
+        {
+            "segment_id": 30,
+            "speaker": "TARGET",
+            "start": 313.231,
+            "end": 315.813,
+            "duration": 2.582,
+            "overlap": false,
+            "text": "In this picture, how does the fox feel?"
+        },
+        {
+            "segment_id": 31,
+            "speaker": "TARGET",
+            "start": 321.01,
+            "end": 323.305,
+            "duration": 2.295,
+            "overlap": false,
+            "text": "In these pictures, how does the fox feel?"
+        },
+        {
+            "segment_id": 32,
+            "speaker": "TARGET",
+            "start": 340.012,
+            "end": 342.661,
+            "duration": 2.649,
+            "overlap": false,
+            "text": "Mommy must have been scared."
+        },
+        {
+            "segment_id": 33,
+            "speaker": "TARGET",
+            "start": 345.31,
+            "end": 347.234,
+            "duration": 1.924,
+            "overlap": false,
+            "text": "And by as Yeah."
+        },
+        {
+            "segment_id": 34,
+            "speaker": "TARGET",
+            "start": 347.656,
+            "end": 349.58,
+            "duration": 1.924,
+            "overlap": false,
+            "text": "Tell me why do you think is the fox girl?"
+        },
+        {
+            "segment_id": 35,
+            "speaker": "TARGET",
+            "start": 366.488,
+            "end": 369.745,
+            "duration": 3.257,
+            "overlap": false,
+            "text": "In this picture, why does the dog grab the fox's tail?"
+        },
+        {
+            "segment_id": 36,
+            "speaker": "TARGET",
+            "start": 373.913,
+            "end": 375.348,
+            "duration": 1.434,
+            "overlap": false,
+            "text": "I am the dog."
+        },
+        {
+            "segment_id": 37,
+            "speaker": "TARGET",
+            "start": 376.276,
+            "end": 376.968,
+            "duration": 0.692,
+            "overlap": false,
+            "text": "I'm in this picture."
+        },
+        {
+            "segment_id": 38,
+            "speaker": "TARGET",
+            "start": 398.669,
+            "end": 402.162,
+            "duration": 3.493,
+            "overlap": false,
+            "text": "[unintelligible] In this picture, the dog sees the birds."
+        },
+        {
+            "segment_id": 39,
+            "speaker": "TARGET",
+            "start": 402.618,
+            "end": 403.934,
+            "duration": 1.316,
+            "overlap": false,
+            "text": "How does the dog feel?"
+        },
+        {
+            "segment_id": 40,
+            "speaker": "TARGET",
+            "start": 415.19,
+            "end": 418.177,
+            "duration": 2.987,
+            "overlap": false,
+            "text": "Ma'am, here's what we have. We really have..."
+        },
+        {
+            "segment_id": 41,
+            "speaker": "TARGET",
+            "start": 430.327,
+            "end": 434.039,
+            "duration": 3.712,
+            "overlap": false,
+            "text": "Who does the mother bird like the best, the fox or the dog?"
+        },
+        {
+            "segment_id": 42,
+            "speaker": "TARGET",
+            "start": 449.092,
+            "end": 450.644,
+            "duration": 1.553,
+            "overlap": true,
+            "text": "Very good. Thank you so much."
+        },
+        {
+            "segment_id": 43,
+            "speaker": "TARGET",
+            "start": 452.416,
+            "end": 453.074,
+            "duration": 0.658,
+            "overlap": false,
+            "text": "Thank you, ma'am."
+        },
+        {
+            "segment_id": 44,
+            "speaker": "TARGET",
+            "start": 453.631,
+            "end": 458.288,
+            "duration": 4.657,
+            "overlap": false,
+            "text": "Next week I will see you, we will have a korea storytelling session."
+        },
+        {
+            "segment_id": 45,
+            "speaker": "TARGET",
+            "start": 459.942,
+            "end": 460.297,
+            "duration": 0.354,
+            "overlap": false,
+            "text": "Okay."
+        },
+        {
+            "segment_id": 46,
+            "speaker": "TARGET",
+            "start": 461.022,
+            "end": 465.697,
+            "duration": 4.674,
+            "overlap": false,
+            "text": "Okay, thank you so much Priya. See you later. Bye bye. Have a nice day. Take care."
+        }
+    ]
+}

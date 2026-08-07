@@ -1,0 +1,15 @@
+{
+    "audio_file": "C06_911.wav",
+    "speakers": {
+        "SPEAKER_00": {
+            "turns": 62,
+            "speaking_time": 238.58,
+            "conversation_share": 58.77
+        },
+        "SPEAKER_01": {
+            "turns": 76,
+            "speaking_time": 167.4,
+            "conversation_share": 41.23
+        }
+    }
+}

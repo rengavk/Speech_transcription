@@ -1,0 +1,599 @@
+{
+    "audio_file": "C15_1111_target.json",
+    "segments": [
+        {
+            "segment_id": 1,
+            "speaker": "TARGET",
+            "start": 6.967,
+            "end": 7.507,
+            "duration": 0.54,
+            "overlap": false,
+            "text": "Not haven't."
+        },
+        {
+            "segment_id": 2,
+            "speaker": "TARGET",
+            "start": 9.532,
+            "end": 10.122,
+            "duration": 0.591,
+            "overlap": false,
+            "text": "Okay."
+        },
+        {
+            "segment_id": 3,
+            "speaker": "TARGET",
+            "start": 16.872,
+            "end": 17.497,
+            "duration": 0.624,
+            "overlap": true,
+            "text": "Okay."
+        },
+        {
+            "segment_id": 4,
+            "speaker": "TARGET",
+            "start": 24.972,
+            "end": 25.833,
+            "duration": 0.861,
+            "overlap": true,
+            "text": "[unintelligible]"
+        },
+        {
+            "segment_id": 5,
+            "speaker": "TARGET",
+            "start": 26.862,
+            "end": 27.25,
+            "duration": 0.388,
+            "overlap": true,
+            "text": "That's boring."
+        },
+        {
+            "segment_id": 6,
+            "speaker": "TARGET",
+            "start": 31.672,
+            "end": 32.431,
+            "duration": 0.759,
+            "overlap": false,
+            "text": "of your blue computer."
+        },
+        {
+            "segment_id": 7,
+            "speaker": "TARGET",
+            "start": 42.286,
+            "end": 42.623,
+            "duration": 0.337,
+            "overlap": true,
+            "text": "So, here we go."
+        },
+        {
+            "segment_id": 8,
+            "speaker": "TARGET",
+            "start": 58.503,
+            "end": 59.887,
+            "duration": 1.384,
+            "overlap": false,
+            "text": "Mama, I go for two."
+        },
+        {
+            "segment_id": 9,
+            "speaker": "TARGET",
+            "start": 60.359,
+            "end": 62.519,
+            "duration": 2.16,
+            "overlap": false,
+            "text": "Uh, I go for the first one."
+        },
+        {
+            "segment_id": 10,
+            "speaker": "TARGET",
+            "start": 63.667,
+            "end": 64.544,
+            "duration": 0.877,
+            "overlap": false,
+            "text": "That's fine, that's fine."
+        },
+        {
+            "segment_id": 11,
+            "speaker": "TARGET",
+            "start": 67.598,
+            "end": 67.919,
+            "duration": 0.321,
+            "overlap": false,
+            "text": "[unintelligible]"
+        },
+        {
+            "segment_id": 12,
+            "speaker": "TARGET",
+            "start": 77.437,
+            "end": 78.145,
+            "duration": 0.709,
+            "overlap": true,
+            "text": "But you don't see it."
+        },
+        {
+            "segment_id": 13,
+            "speaker": "TARGET",
+            "start": 105.145,
+            "end": 105.635,
+            "duration": 0.489,
+            "overlap": true,
+            "text": "made it"
+        },
+        {
+            "segment_id": 14,
+            "speaker": "TARGET",
+            "start": 123.488,
+            "end": 125.581,
+            "duration": 2.093,
+            "overlap": false,
+            "text": "Okay, let me do it again."
+        },
+        {
+            "segment_id": 15,
+            "speaker": "TARGET",
+            "start": 154.96,
+            "end": 156.732,
+            "duration": 1.772,
+            "overlap": false,
+            "text": "Can you please go to the next section?"
+        },
+        {
+            "segment_id": 16,
+            "speaker": "TARGET",
+            "start": 187.023,
+            "end": 195.089,
+            "duration": 8.066,
+            "overlap": false,
+            "text": "Mum, I think this is a story about a bird and a cat and a dog."
+        },
+        {
+            "segment_id": 17,
+            "speaker": "TARGET",
+            "start": 195.595,
+            "end": 196.338,
+            "duration": 0.743,
+            "overlap": false,
+            "text": "[unintelligible]"
+        },
+        {
+            "segment_id": 18,
+            "speaker": "TARGET",
+            "start": 197.738,
+            "end": 214.495,
+            "duration": 16.757,
+            "overlap": false,
+            "text": "Firstly, the mother bird was very happy with her offspring in the nest and then she flew away to bring the food for them."
+        },
+        {
+            "segment_id": 19,
+            "speaker": "TARGET",
+            "start": 215.002,
+            "end": 217.482,
+            "duration": 2.481,
+            "overlap": false,
+            "text": "Uh, then in a, uh, then I hung the cat."
+        },
+        {
+            "segment_id": 20,
+            "speaker": "TARGET",
+            "start": 218.056,
+            "end": 218.393,
+            "duration": 0.338,
+            "overlap": false,
+            "text": "Okay."
+        },
+        {
+            "segment_id": 21,
+            "speaker": "TARGET",
+            "start": 218.849,
+            "end": 223.608,
+            "duration": 4.759,
+            "overlap": false,
+            "text": "Then a hungry cat A team go near the bus and he tries..."
+        },
+        {
+            "segment_id": 22,
+            "speaker": "TARGET",
+            "start": 225.11,
+            "end": 225.717,
+            "duration": 0.607,
+            "overlap": false,
+            "text": "That's it."
+        },
+        {
+            "segment_id": 23,
+            "speaker": "TARGET",
+            "start": 226.966,
+            "end": 234.155,
+            "duration": 7.189,
+            "overlap": false,
+            "text": "But within a moment, the bird returns and..."
+        },
+        {
+            "segment_id": 24,
+            "speaker": "TARGET",
+            "start": 235.657,
+            "end": 239.217,
+            "duration": 3.56,
+            "overlap": false,
+            "text": "And a dog also came. The dog..."
+        },
+        {
+            "segment_id": 25,
+            "speaker": "TARGET",
+            "start": 242.018,
+            "end": 249.68,
+            "duration": 7.662,
+            "overlap": false,
+            "text": "cat from the tree and the cat fell down so the mother bird thank the dog for saving her children"
+        },
+        {
+            "segment_id": 26,
+            "speaker": "TARGET",
+            "start": 253.088,
+            "end": 258.725,
+            "duration": 5.637,
+            "overlap": false,
+            "text": "And the dog flew away with the cat."
+        },
+        {
+            "segment_id": 27,
+            "speaker": "TARGET",
+            "start": 268.023,
+            "end": 268.748,
+            "duration": 0.726,
+            "overlap": false,
+            "text": "Have a good estate."
+        },
+        {
+            "segment_id": 28,
+            "speaker": "TARGET",
+            "start": 269.457,
+            "end": 271.786,
+            "duration": 2.329,
+            "overlap": false,
+            "text": "On your blue computer, the story appears like..."
+        },
+        {
+            "segment_id": 29,
+            "speaker": "TARGET",
+            "start": 272.039,
+            "end": 272.444,
+            "duration": 0.405,
+            "overlap": false,
+            "text": "This."
+        },
+        {
+            "segment_id": 30,
+            "speaker": "TARGET",
+            "start": 273.676,
+            "end": 274.115,
+            "duration": 0.439,
+            "overlap": false,
+            "text": "[unintelligible]"
+        },
+        {
+            "segment_id": 31,
+            "speaker": "TARGET",
+            "start": 292.323,
+            "end": 293.065,
+            "duration": 0.743,
+            "overlap": true,
+            "text": "So cool."
+        },
+        {
+            "segment_id": 32,
+            "speaker": "TARGET",
+            "start": 295.36,
+            "end": 296.693,
+            "duration": 1.333,
+            "overlap": false,
+            "text": "Let me show you how to do it."
+        },
+        {
+            "segment_id": 33,
+            "speaker": "TARGET",
+            "start": 299.731,
+            "end": 300.963,
+            "duration": 1.232,
+            "overlap": false,
+            "text": "So, in these two pictures,"
+        },
+        {
+            "segment_id": 34,
+            "speaker": "TARGET",
+            "start": 305.502,
+            "end": 311.932,
+            "duration": 6.43,
+            "overlap": false,
+            "text": "I think she flew away to bring food for her children and"
+        },
+        {
+            "segment_id": 35,
+            "speaker": "TARGET",
+            "start": 313.67,
+            "end": 314.227,
+            "duration": 0.557,
+            "overlap": false,
+            "text": "Thank you."
+        },
+        {
+            "segment_id": 36,
+            "speaker": "TARGET",
+            "start": 315.458,
+            "end": 316.538,
+            "duration": 1.08,
+            "overlap": false,
+            "text": "I'm going to..."
+        },
+        {
+            "segment_id": 37,
+            "speaker": "TARGET",
+            "start": 317.18,
+            "end": 317.804,
+            "duration": 0.624,
+            "overlap": false,
+            "text": "Uh..."
+        },
+        {
+            "segment_id": 38,
+            "speaker": "TARGET",
+            "start": 318.749,
+            "end": 321.01,
+            "duration": 2.261,
+            "overlap": false,
+            "text": "I'm to fly over here any minute."
+        },
+        {
+            "segment_id": 39,
+            "speaker": "TARGET",
+            "start": 329.482,
+            "end": 334.038,
+            "duration": 4.556,
+            "overlap": false,
+            "text": "The baby birds fly when the mother goes out."
+        },
+        {
+            "segment_id": 40,
+            "speaker": "TARGET",
+            "start": 345.665,
+            "end": 348.196,
+            "duration": 2.531,
+            "overlap": false,
+            "text": "[unintelligible] The baby bird"
+        },
+        {
+            "segment_id": 41,
+            "speaker": "TARGET",
+            "start": 349.293,
+            "end": 352.077,
+            "duration": 2.784,
+            "overlap": false,
+            "text": "The babies were too hungry and"
+        },
+        {
+            "segment_id": 42,
+            "speaker": "TARGET",
+            "start": 353.765,
+            "end": 355.047,
+            "duration": 1.282,
+            "overlap": false,
+            "text": "The other way."
+        },
+        {
+            "segment_id": 43,
+            "speaker": "TARGET",
+            "start": 360.65,
+            "end": 367.822,
+            "duration": 7.172,
+            "overlap": false,
+            "text": "They are feeling hungry because they are simply crying and that might be the reason."
+        },
+        {
+            "segment_id": 44,
+            "speaker": "TARGET",
+            "start": 368.48,
+            "end": 370.285,
+            "duration": 1.806,
+            "overlap": false,
+            "text": "They have not eaten some food."
+        },
+        {
+            "segment_id": 45,
+            "speaker": "TARGET",
+            "start": 372.091,
+            "end": 372.682,
+            "duration": 0.591,
+            "overlap": false,
+            "text": "Okay."
+        },
+        {
+            "segment_id": 46,
+            "speaker": "TARGET",
+            "start": 380.731,
+            "end": 381.22,
+            "duration": 0.489,
+            "overlap": false,
+            "text": "All right."
+        },
+        {
+            "segment_id": 47,
+            "speaker": "TARGET",
+            "start": 381.642,
+            "end": 383.701,
+            "duration": 2.059,
+            "overlap": false,
+            "text": "Go to the cat, go to the tree, too."
+        },
+        {
+            "segment_id": 48,
+            "speaker": "TARGET",
+            "start": 384.292,
+            "end": 387.734,
+            "duration": 3.442,
+            "overlap": false,
+            "text": "Uh, how do you do this? Uh, all the..."
+        },
+        {
+            "segment_id": 49,
+            "speaker": "TARGET",
+            "start": 388.342,
+            "end": 396.239,
+            "duration": 7.897,
+            "overlap": false,
+            "text": "[unintelligible] And I think he is also a bit delighted by the mood that the mother is in."
+        },
+        {
+            "segment_id": 50,
+            "speaker": "TARGET",
+            "start": 399.479,
+            "end": 399.968,
+            "duration": 0.489,
+            "overlap": false,
+            "text": "Increase to"
+        },
+        {
+            "segment_id": 51,
+            "speaker": "TARGET",
+            "start": 407.36,
+            "end": 408.575,
+            "duration": 1.215,
+            "overlap": false,
+            "text": "Uh, the cat's..."
+        },
+        {
+            "segment_id": 52,
+            "speaker": "TARGET",
+            "start": 409.537,
+            "end": 413.722,
+            "duration": 4.185,
+            "overlap": false,
+            "text": "This is very bad as the dog scares him away."
+        },
+        {
+            "segment_id": 53,
+            "speaker": "TARGET",
+            "start": 414.312,
+            "end": 417.097,
+            "duration": 2.784,
+            "overlap": false,
+            "text": "And he seems also very terrified."
+        },
+        {
+            "segment_id": 54,
+            "speaker": "TARGET",
+            "start": 419.02,
+            "end": 419.611,
+            "duration": 0.591,
+            "overlap": true,
+            "text": "Okay."
+        },
+        {
+            "segment_id": 55,
+            "speaker": "TARGET",
+            "start": 419.982,
+            "end": 422.615,
+            "duration": 2.632,
+            "overlap": false,
+            "text": "So why do you think the cat feels very terrified?"
+        },
+        {
+            "segment_id": 56,
+            "speaker": "TARGET",
+            "start": 424.808,
+            "end": 432.2,
+            "duration": 7.392,
+            "overlap": false,
+            "text": "The cat feels very terrified as the dog bit his tail."
+        },
+        {
+            "segment_id": 57,
+            "speaker": "TARGET",
+            "start": 432.757,
+            "end": 434.697,
+            "duration": 1.941,
+            "overlap": false,
+            "text": "It's a dog. My dog."
+        },
+        {
+            "segment_id": 58,
+            "speaker": "TARGET",
+            "start": 435.187,
+            "end": 438.663,
+            "duration": 3.476,
+            "overlap": false,
+            "text": "might cause any harm to the cat."
+        },
+        {
+            "segment_id": 59,
+            "speaker": "TARGET",
+            "start": 449.885,
+            "end": 455.707,
+            "duration": 5.822,
+            "overlap": false,
+            "text": "I think the dog will grab the cat's tail to help the mother bird."
+        },
+        {
+            "segment_id": 60,
+            "speaker": "TARGET",
+            "start": 459.655,
+            "end": 462.963,
+            "duration": 3.308,
+            "overlap": false,
+            "text": "Imagine that the dog sees the birds. How does the dog feel?"
+        },
+        {
+            "segment_id": 61,
+            "speaker": "TARGET",
+            "start": 466.928,
+            "end": 471.788,
+            "duration": 4.86,
+            "overlap": false,
+            "text": "The dog feels very good as he takes the light out."
+        },
+        {
+            "segment_id": 62,
+            "speaker": "TARGET",
+            "start": 472.649,
+            "end": 473.273,
+            "duration": 0.624,
+            "overlap": false,
+            "text": "Hello"
+        },
+        {
+            "segment_id": 63,
+            "speaker": "TARGET",
+            "start": 484.057,
+            "end": 486.622,
+            "duration": 2.565,
+            "overlap": false,
+            "text": "I think the mother bird likes the dog the best."
+        },
+        {
+            "segment_id": 64,
+            "speaker": "TARGET",
+            "start": 489.457,
+            "end": 492.967,
+            "duration": 3.51,
+            "overlap": false,
+            "text": "Because the dog has a head hurt, and the"
+        },
+        {
+            "segment_id": 65,
+            "speaker": "TARGET",
+            "start": 496.375,
+            "end": 496.78,
+            "duration": 0.405,
+            "overlap": false,
+            "text": "Thank you."
+        },
+        {
+            "segment_id": 66,
+            "speaker": "TARGET",
+            "start": 518.515,
+            "end": 519.781,
+            "duration": 1.266,
+            "overlap": false,
+            "text": "Bye, ma'am. Thank you, ma'am."
+        }
+    ]
+}

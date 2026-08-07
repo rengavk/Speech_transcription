@@ -1,0 +1,26 @@
+{
+    "audio_file": "C07_1102.json",
+    "target_speaker": "SPEAKER_00",
+    "selection_method": "automatic",
+    "confidence": 0.195,
+    "speaker_statistics": {
+        "SPEAKER_01": {
+            "turns": 63,
+            "speaking_time": 147.84,
+            "word_count": 391,
+            "avg_turn_duration": 2.35,
+            "longest_turn": 9.45
+        },
+        "SPEAKER_00": {
+            "turns": 69,
+            "speaking_time": 180.18,
+            "word_count": 639,
+            "avg_turn_duration": 2.61,
+            "longest_turn": 8.88
+        }
+    },
+    "speaker_scores": {
+        "SPEAKER_01": 0.8051,
+        "SPEAKER_00": 1.0
+    }
+}

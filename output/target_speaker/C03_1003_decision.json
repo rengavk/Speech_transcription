@@ -1,0 +1,26 @@
+{
+    "audio_file": "C03_1003.json",
+    "target_speaker": "SPEAKER_00",
+    "selection_method": "automatic",
+    "confidence": 0.066,
+    "speaker_statistics": {
+        "SPEAKER_00": {
+            "turns": 92,
+            "speaking_time": 212.57,
+            "word_count": 736,
+            "avg_turn_duration": 2.31,
+            "longest_turn": 8.57
+        },
+        "SPEAKER_01": {
+            "turns": 88,
+            "speaking_time": 214.43,
+            "word_count": 492,
+            "avg_turn_duration": 2.44,
+            "longest_turn": 18.48
+        }
+    },
+    "speaker_scores": {
+        "SPEAKER_00": 0.9905,
+        "SPEAKER_01": 0.925
+    }
+}
